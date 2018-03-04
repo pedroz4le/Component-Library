@@ -51,7 +51,7 @@ let colors = {
   'grey-darker': '#606f7b',
   'grey-dark': '#8795a1',
   'grey': '#b8c2cc',
-  'grey-light': '#dae1e7',
+  'grey-light': '#eaeaea',
   'grey-lighter': '#f1f5f8',
   'grey-lightest': '#f8fafc',
   'white': '#ffffff',
@@ -131,7 +131,7 @@ let colors = {
   'theme-purple': '#450b54',
 
   'theme-redish': '#fb0c25',
-  'theme-redish-light': '#fb0c25',
+  'theme-redish-light': '#fb5c65',
 
 }
 

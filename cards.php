@@ -1,12 +1,13 @@
 <?php include 'partials/start.php'; ?>
 
   <h1 class="pb-4">Cards</h1>
-  <p class="leading-normal pb-8">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui nostrum minus vel sed, quos saepe eveniet, consequatur praesentium assumenda officia mollitia maiores, perspiciatis at quia porro soluta autem ipsum aut.
+  <p class="leading-normal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui nostrum minus vel sed, quos saepe eveniet, consequatur praesentium assumenda officia mollitia maiores, perspiciatis at quia porro soluta autem ipsum aut.
 
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui nostrum minus vel sed, quos saepe eveniet, consequatur praesentium assumenda officia mollitia maiores, perspiciatis at quia porro soluta autem ipsum aut.
 
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui nostrum minus vel sed, quos saepe eveniet, consequatur praesentium assumenda officia mollitia maiores, perspiciatis at quia porro soluta autem ipsum aut.</p>
 
+<div class="border-b w-screen my-10"></div>
 
 <!-- VERTICAL CARD COMPONENT -->
 
@@ -22,7 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
       <div class="p-8">
         <h2 class="mb-4 text-2xl text-theme-redish">Card Title</h2>
         <p class="leading-normal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore tenetur tempore beatae, sed.</p>
-        <a class="bg-theme-redish font-bold hover:bg-red-light inline-block mt-4 no-underline px-8 py-4 rounded-full shadow-sm text-lg text-white tracking-wide" href="#">
+        <a class="bg-theme-redish font-bold hover:bg-theme-redish-light inline-block mt-4 no-underline px-8 py-4 rounded-full shadow-sm text-lg text-white tracking-wide" href="#">
           <div class="flex items-center">
             Button<i class="fas fa-lg fa-angle-right ml-6"></i>
           </div>
@@ -39,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
       &lt;div class=&quot;p-8&quot;&gt;
         &lt;h2 class=&quot;mb-4 text-2xl text-theme-redish&quot;&gt;Card Title&lt;/h2&gt;
         &lt;p class=&quot;leading-normal&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore tenetur tempore beatae, sed.&lt;/p&gt;
-        &lt;a class=&quot;bg-theme-redish font-bold hover:bg-red-light inline-block mt-4 no-underline px-8 py-4 rounded-full shadow-sm text-lg text-white tracking-wide&quot; href=&quot;#&quot;&gt;
+        &lt;a class=&quot;bg-theme-redish font-bold hover:bg-theme-redish-light inline-block mt-4 no-underline px-8 py-4 rounded-full shadow-sm text-lg text-white tracking-wide&quot; href=&quot;#&quot;&gt;
           &lt;div class=&quot;flex items-center&quot;&gt;
             Button&lt;i class=&quot;fas fa-lg fa-angle-right ml-6&quot;&gt;&lt;/i&gt;
           &lt;/div&gt;
@@ -49,6 +50,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
   &lt;/div&gt;
 &lt;/div&gt;
 </code></pre>
+
+<div class="border-b w-screen my-10"></div>
 
 <!-- HORIZONTAL CARD COMPONENT -->
 
@@ -66,7 +69,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
           <div class="p-8">
             <h2 class="mb-4 text-2xl text-theme-redish">Card Title</h2>
             <p class="leading-normal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore tenetur tempore beatae, sed.</p>
-            <a class="bg-theme-redish font-bold inline-block mt-4 no-underline px-8 py-4 rounded-full shadow-sm text-lg text-white tracking-wide" href="#">
+            <a class="bg-theme-redish font-bold hover:bg-theme-redish-light inline-block mt-4 no-underline px-8 py-4 rounded-full shadow-sm text-lg text-white tracking-wide" href="#">
               <div class="flex items-center">
                 Button<i class="fas fa-lg fa-angle-right ml-6"></i>
               </div>
@@ -88,7 +91,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
           &lt;div class=&quot;p-8&quot;&gt;
             &lt;h2 class=&quot;mb-4 text-2xl text-theme-redish&quot;&gt;Card Title&lt;/h2&gt;
             &lt;p class=&quot;leading-normal&quot;&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore tenetur tempore beatae, sed.&lt;/p&gt;
-            &lt;a class=&quot;bg-theme-redish font-bold inline-block mt-4 no-underline px-8 py-4 rounded-full shadow-sm text-lg text-white tracking-wide&quot; href=&quot;#&quot;&gt;
+            &lt;a class=&quot;bg-theme-redish font-bold hover:bg-theme-redish-light inline-block mt-4 no-underline px-8 py-4 rounded-full shadow-sm text-lg text-white tracking-wide&quot; href=&quot;#&quot;&gt;
               &lt;div class=&quot;flex items-center&quot;&gt;
                 Button&lt;i class=&quot;fas fa-lg fa-angle-right ml-6&quot;&gt;&lt;/i&gt;
               &lt;/div&gt;

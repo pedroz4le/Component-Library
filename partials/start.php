@@ -19,9 +19,17 @@
           <a href="index.php">
             <img src="./images/logo.png" alt="caff source logo" class="w-16">
           </a>
+
           <h1 class="ml-4">Caff Source 
             <span class="font-thin">Component Library</span>
           </h1>
+          
+          <span class="absolute my-6 mr-6 pin-t pin-r">
+          <a href="https://github.com/pedroz4le/Component-Library">
+            <img src="./images/gitHubIcon.png" alt="GitHub icon link" class="w-8">
+          </a>
+          </span>
+
         </div>
       </header>
     </div>
