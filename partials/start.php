@@ -23,6 +23,10 @@
           <h1 class="ml-4">Caff Source 
             <span class="font-thin">Component Library</span>
           </h1>
+
+          <form >
+            <input class="border border-solid border-grey ml-16 py-2 px-6 rounded-full w-112" type="text" placeholder="Search...">
+          </form>
           
           <span class="absolute my-6 mr-6 pin-t pin-r">
           <a href="https://github.com/pedroz4le/Component-Library">

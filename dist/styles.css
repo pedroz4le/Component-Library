@@ -2681,6 +2681,10 @@ button,
   margin: 8rem;
 }
 
+.m-16 {
+  margin: 12rem;
+}
+
 .m-auto {
   margin: auto;
 }
@@ -2781,6 +2785,16 @@ button,
 .mx-12 {
   margin-left: 8rem;
   margin-right: 8rem;
+}
+
+.my-16 {
+  margin-top: 12rem;
+  margin-bottom: 12rem;
+}
+
+.mx-16 {
+  margin-left: 12rem;
+  margin-right: 12rem;
 }
 
 .my-auto {
@@ -2955,6 +2969,22 @@ button,
 
 .ml-12 {
   margin-left: 8rem;
+}
+
+.mt-16 {
+  margin-top: 12rem;
+}
+
+.mr-16 {
+  margin-right: 12rem;
+}
+
+.mb-16 {
+  margin-bottom: 12rem;
+}
+
+.ml-16 {
+  margin-left: 12rem;
 }
 
 .mt-auto {
@@ -4611,6 +4641,18 @@ button,
 
 .w-64 {
   width: 16rem;
+}
+
+.w-80 {
+  width: 20rem;
+}
+
+.w-96 {
+  width: 24rem;
+}
+
+.w-112 {
+  width: 28rem;
 }
 
 .w-auto {
@@ -6745,6 +6787,10 @@ button,
     margin: 8rem;
   }
 
+  .sm\:m-16 {
+    margin: 12rem;
+  }
+
   .sm\:m-auto {
     margin: auto;
   }
@@ -6845,6 +6891,16 @@ button,
   .sm\:mx-12 {
     margin-left: 8rem;
     margin-right: 8rem;
+  }
+
+  .sm\:my-16 {
+    margin-top: 12rem;
+    margin-bottom: 12rem;
+  }
+
+  .sm\:mx-16 {
+    margin-left: 12rem;
+    margin-right: 12rem;
   }
 
   .sm\:my-auto {
@@ -7019,6 +7075,22 @@ button,
 
   .sm\:ml-12 {
     margin-left: 8rem;
+  }
+
+  .sm\:mt-16 {
+    margin-top: 12rem;
+  }
+
+  .sm\:mr-16 {
+    margin-right: 12rem;
+  }
+
+  .sm\:mb-16 {
+    margin-bottom: 12rem;
+  }
+
+  .sm\:ml-16 {
+    margin-left: 12rem;
   }
 
   .sm\:mt-auto {
@@ -8667,6 +8739,18 @@ button,
 
   .sm\:w-64 {
     width: 16rem;
+  }
+
+  .sm\:w-80 {
+    width: 20rem;
+  }
+
+  .sm\:w-96 {
+    width: 24rem;
+  }
+
+  .sm\:w-112 {
+    width: 28rem;
   }
 
   .sm\:w-auto {
@@ -10802,6 +10886,10 @@ button,
     margin: 8rem;
   }
 
+  .md\:m-16 {
+    margin: 12rem;
+  }
+
   .md\:m-auto {
     margin: auto;
   }
@@ -10902,6 +10990,16 @@ button,
   .md\:mx-12 {
     margin-left: 8rem;
     margin-right: 8rem;
+  }
+
+  .md\:my-16 {
+    margin-top: 12rem;
+    margin-bottom: 12rem;
+  }
+
+  .md\:mx-16 {
+    margin-left: 12rem;
+    margin-right: 12rem;
   }
 
   .md\:my-auto {
@@ -11076,6 +11174,22 @@ button,
 
   .md\:ml-12 {
     margin-left: 8rem;
+  }
+
+  .md\:mt-16 {
+    margin-top: 12rem;
+  }
+
+  .md\:mr-16 {
+    margin-right: 12rem;
+  }
+
+  .md\:mb-16 {
+    margin-bottom: 12rem;
+  }
+
+  .md\:ml-16 {
+    margin-left: 12rem;
   }
 
   .md\:mt-auto {
@@ -12724,6 +12838,18 @@ button,
 
   .md\:w-64 {
     width: 16rem;
+  }
+
+  .md\:w-80 {
+    width: 20rem;
+  }
+
+  .md\:w-96 {
+    width: 24rem;
+  }
+
+  .md\:w-112 {
+    width: 28rem;
   }
 
   .md\:w-auto {
@@ -14859,6 +14985,10 @@ button,
     margin: 8rem;
   }
 
+  .lg\:m-16 {
+    margin: 12rem;
+  }
+
   .lg\:m-auto {
     margin: auto;
   }
@@ -14959,6 +15089,16 @@ button,
   .lg\:mx-12 {
     margin-left: 8rem;
     margin-right: 8rem;
+  }
+
+  .lg\:my-16 {
+    margin-top: 12rem;
+    margin-bottom: 12rem;
+  }
+
+  .lg\:mx-16 {
+    margin-left: 12rem;
+    margin-right: 12rem;
   }
 
   .lg\:my-auto {
@@ -15133,6 +15273,22 @@ button,
 
   .lg\:ml-12 {
     margin-left: 8rem;
+  }
+
+  .lg\:mt-16 {
+    margin-top: 12rem;
+  }
+
+  .lg\:mr-16 {
+    margin-right: 12rem;
+  }
+
+  .lg\:mb-16 {
+    margin-bottom: 12rem;
+  }
+
+  .lg\:ml-16 {
+    margin-left: 12rem;
   }
 
   .lg\:mt-auto {
@@ -16781,6 +16937,18 @@ button,
 
   .lg\:w-64 {
     width: 16rem;
+  }
+
+  .lg\:w-80 {
+    width: 20rem;
+  }
+
+  .lg\:w-96 {
+    width: 24rem;
+  }
+
+  .lg\:w-112 {
+    width: 28rem;
   }
 
   .lg\:w-auto {
@@ -18916,6 +19084,10 @@ button,
     margin: 8rem;
   }
 
+  .xl\:m-16 {
+    margin: 12rem;
+  }
+
   .xl\:m-auto {
     margin: auto;
   }
@@ -19016,6 +19188,16 @@ button,
   .xl\:mx-12 {
     margin-left: 8rem;
     margin-right: 8rem;
+  }
+
+  .xl\:my-16 {
+    margin-top: 12rem;
+    margin-bottom: 12rem;
+  }
+
+  .xl\:mx-16 {
+    margin-left: 12rem;
+    margin-right: 12rem;
   }
 
   .xl\:my-auto {
@@ -19190,6 +19372,22 @@ button,
 
   .xl\:ml-12 {
     margin-left: 8rem;
+  }
+
+  .xl\:mt-16 {
+    margin-top: 12rem;
+  }
+
+  .xl\:mr-16 {
+    margin-right: 12rem;
+  }
+
+  .xl\:mb-16 {
+    margin-bottom: 12rem;
+  }
+
+  .xl\:ml-16 {
+    margin-left: 12rem;
   }
 
   .xl\:mt-auto {
@@ -20840,6 +21038,18 @@ button,
     width: 16rem;
   }
 
+  .xl\:w-80 {
+    width: 20rem;
+  }
+
+  .xl\:w-96 {
+    width: 24rem;
+  }
+
+  .xl\:w-112 {
+    width: 28rem;
+  }
+
   .xl\:w-auto {
     width: auto;
   }
@@ -20927,14 +21137,4 @@ button,
   .xl\:z-auto {
     z-index: auto;
   }
-
-/*MY OWN STYLES*/
-
-.breadcrumb-item:not(:last-child):after {
-  content: "/";
 }
-
-
-
-}
-
