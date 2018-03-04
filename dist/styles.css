@@ -955,6 +955,10 @@ button,
   background-color: #450b54;
 }
 
+.bg-theme-purple-lighter {
+  background-color: #670b54;
+}
+
 .bg-theme-redish {
   background-color: #fb0c25;
 }
@@ -1257,6 +1261,10 @@ button,
 
 .hover\:bg-theme-purple:hover {
   background-color: #450b54;
+}
+
+.hover\:bg-theme-purple-lighter:hover {
+  background-color: #670b54;
 }
 
 .hover\:bg-theme-redish:hover {
@@ -1623,6 +1631,10 @@ button,
   border-color: #450b54;
 }
 
+.border-theme-purple-lighter {
+  border-color: #670b54;
+}
+
 .border-theme-redish {
   border-color: #fb0c25;
 }
@@ -1925,6 +1937,10 @@ button,
 
 .hover\:border-theme-purple:hover {
   border-color: #450b54;
+}
+
+.hover\:border-theme-purple-lighter:hover {
+  border-color: #670b54;
 }
 
 .hover\:border-theme-redish:hover {
@@ -4011,6 +4027,10 @@ button,
   color: #450b54;
 }
 
+.text-theme-purple-lighter {
+  color: #670b54;
+}
+
 .text-theme-redish {
   color: #fb0c25;
 }
@@ -4313,6 +4333,10 @@ button,
 
 .hover\:text-theme-purple:hover {
   color: #450b54;
+}
+
+.hover\:text-theme-purple-lighter:hover {
+  color: #670b54;
 }
 
 .hover\:text-theme-redish:hover {
@@ -4995,6 +5019,10 @@ button,
     background-color: #450b54;
   }
 
+  .sm\:bg-theme-purple-lighter {
+    background-color: #670b54;
+  }
+
   .sm\:bg-theme-redish {
     background-color: #fb0c25;
   }
@@ -5297,6 +5325,10 @@ button,
 
   .sm\:hover\:bg-theme-purple:hover {
     background-color: #450b54;
+  }
+
+  .sm\:hover\:bg-theme-purple-lighter:hover {
+    background-color: #670b54;
   }
 
   .sm\:hover\:bg-theme-redish:hover {
@@ -5663,6 +5695,10 @@ button,
     border-color: #450b54;
   }
 
+  .sm\:border-theme-purple-lighter {
+    border-color: #670b54;
+  }
+
   .sm\:border-theme-redish {
     border-color: #fb0c25;
   }
@@ -5965,6 +6001,10 @@ button,
 
   .sm\:hover\:border-theme-purple:hover {
     border-color: #450b54;
+  }
+
+  .sm\:hover\:border-theme-purple-lighter:hover {
+    border-color: #670b54;
   }
 
   .sm\:hover\:border-theme-redish:hover {
@@ -8043,6 +8083,10 @@ button,
     color: #450b54;
   }
 
+  .sm\:text-theme-purple-lighter {
+    color: #670b54;
+  }
+
   .sm\:text-theme-redish {
     color: #fb0c25;
   }
@@ -8345,6 +8389,10 @@ button,
 
   .sm\:hover\:text-theme-purple:hover {
     color: #450b54;
+  }
+
+  .sm\:hover\:text-theme-purple-lighter:hover {
+    color: #670b54;
   }
 
   .sm\:hover\:text-theme-redish:hover {
@@ -9028,6 +9076,10 @@ button,
     background-color: #450b54;
   }
 
+  .md\:bg-theme-purple-lighter {
+    background-color: #670b54;
+  }
+
   .md\:bg-theme-redish {
     background-color: #fb0c25;
   }
@@ -9330,6 +9382,10 @@ button,
 
   .md\:hover\:bg-theme-purple:hover {
     background-color: #450b54;
+  }
+
+  .md\:hover\:bg-theme-purple-lighter:hover {
+    background-color: #670b54;
   }
 
   .md\:hover\:bg-theme-redish:hover {
@@ -9696,6 +9752,10 @@ button,
     border-color: #450b54;
   }
 
+  .md\:border-theme-purple-lighter {
+    border-color: #670b54;
+  }
+
   .md\:border-theme-redish {
     border-color: #fb0c25;
   }
@@ -9998,6 +10058,10 @@ button,
 
   .md\:hover\:border-theme-purple:hover {
     border-color: #450b54;
+  }
+
+  .md\:hover\:border-theme-purple-lighter:hover {
+    border-color: #670b54;
   }
 
   .md\:hover\:border-theme-redish:hover {
@@ -12076,6 +12140,10 @@ button,
     color: #450b54;
   }
 
+  .md\:text-theme-purple-lighter {
+    color: #670b54;
+  }
+
   .md\:text-theme-redish {
     color: #fb0c25;
   }
@@ -12378,6 +12446,10 @@ button,
 
   .md\:hover\:text-theme-purple:hover {
     color: #450b54;
+  }
+
+  .md\:hover\:text-theme-purple-lighter:hover {
+    color: #670b54;
   }
 
   .md\:hover\:text-theme-redish:hover {
@@ -13061,6 +13133,10 @@ button,
     background-color: #450b54;
   }
 
+  .lg\:bg-theme-purple-lighter {
+    background-color: #670b54;
+  }
+
   .lg\:bg-theme-redish {
     background-color: #fb0c25;
   }
@@ -13363,6 +13439,10 @@ button,
 
   .lg\:hover\:bg-theme-purple:hover {
     background-color: #450b54;
+  }
+
+  .lg\:hover\:bg-theme-purple-lighter:hover {
+    background-color: #670b54;
   }
 
   .lg\:hover\:bg-theme-redish:hover {
@@ -13729,6 +13809,10 @@ button,
     border-color: #450b54;
   }
 
+  .lg\:border-theme-purple-lighter {
+    border-color: #670b54;
+  }
+
   .lg\:border-theme-redish {
     border-color: #fb0c25;
   }
@@ -14031,6 +14115,10 @@ button,
 
   .lg\:hover\:border-theme-purple:hover {
     border-color: #450b54;
+  }
+
+  .lg\:hover\:border-theme-purple-lighter:hover {
+    border-color: #670b54;
   }
 
   .lg\:hover\:border-theme-redish:hover {
@@ -16109,6 +16197,10 @@ button,
     color: #450b54;
   }
 
+  .lg\:text-theme-purple-lighter {
+    color: #670b54;
+  }
+
   .lg\:text-theme-redish {
     color: #fb0c25;
   }
@@ -16411,6 +16503,10 @@ button,
 
   .lg\:hover\:text-theme-purple:hover {
     color: #450b54;
+  }
+
+  .lg\:hover\:text-theme-purple-lighter:hover {
+    color: #670b54;
   }
 
   .lg\:hover\:text-theme-redish:hover {
@@ -17094,6 +17190,10 @@ button,
     background-color: #450b54;
   }
 
+  .xl\:bg-theme-purple-lighter {
+    background-color: #670b54;
+  }
+
   .xl\:bg-theme-redish {
     background-color: #fb0c25;
   }
@@ -17396,6 +17496,10 @@ button,
 
   .xl\:hover\:bg-theme-purple:hover {
     background-color: #450b54;
+  }
+
+  .xl\:hover\:bg-theme-purple-lighter:hover {
+    background-color: #670b54;
   }
 
   .xl\:hover\:bg-theme-redish:hover {
@@ -17762,6 +17866,10 @@ button,
     border-color: #450b54;
   }
 
+  .xl\:border-theme-purple-lighter {
+    border-color: #670b54;
+  }
+
   .xl\:border-theme-redish {
     border-color: #fb0c25;
   }
@@ -18064,6 +18172,10 @@ button,
 
   .xl\:hover\:border-theme-purple:hover {
     border-color: #450b54;
+  }
+
+  .xl\:hover\:border-theme-purple-lighter:hover {
+    border-color: #670b54;
   }
 
   .xl\:hover\:border-theme-redish:hover {
@@ -20142,6 +20254,10 @@ button,
     color: #450b54;
   }
 
+  .xl\:text-theme-purple-lighter {
+    color: #670b54;
+  }
+
   .xl\:text-theme-redish {
     color: #fb0c25;
   }
@@ -20444,6 +20560,10 @@ button,
 
   .xl\:hover\:text-theme-purple:hover {
     color: #450b54;
+  }
+
+  .xl\:hover\:text-theme-purple-lighter:hover {
+    color: #670b54;
   }
 
   .xl\:hover\:text-theme-redish:hover {
@@ -20807,4 +20927,14 @@ button,
   .xl\:z-auto {
     z-index: auto;
   }
+
+/*MY OWN STYLES*/
+
+.breadcrumb-item:not(:last-child):after {
+  content: "/";
 }
+
+
+
+}
+

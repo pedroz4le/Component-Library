@@ -7,6 +7,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
 
 <div class="border-b w-screen my-10"></div>
 
+<!-- ROUNDED BUTTON WITH ICON -->
+
 <h2 class="font-thin pb-4">Rounded Button with Icon</h2>
 <p class="leading-normal pb-8">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et unde non nam, consequatur expedita nulla fugiat tempora ex similique necessitatibus consequuntur mollitia eum soluta laudantium, repudiandae hic nobis minus laboriosam.</p>
 
@@ -22,6 +24,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
 </code></pre>
 
 <div class="border-b w-screen my-10"></div>
+
+<!-- SQUARED BUTTON -->
 
 <h2 class="font-thin pb-4">Squared Button</h2>
 <p class="leading-normal pb-8">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et unde non nam, consequatur expedita nulla fugiat tempora ex similique necessitatibus consequuntur mollitia eum soluta laudantium, repudiandae hic nobis minus laboriosam.</p>

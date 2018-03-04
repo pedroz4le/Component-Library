@@ -33,7 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
   </div>
 </div>
 
-<pre><code class="html overflow-auto m-8">&lt;div&gt;
+<pre><code class="html overflow-auto my-8">&lt;div&gt;
   &lt;div class=&quot;flex flex-wrap -mx-2&quot;&gt;
     &lt;div class=&quot;overflow-hidden mx-auto rounded-lg shadow-lg max-w-xs&quot;&gt;
       &lt;img class=&quot;block&quot; src=&quot;http://via.placeholder.com/640x480&quot; alt=&quot;placeholder&quot;&gt;
@@ -84,7 +84,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
   </div>
 </div>
 
-<pre><code class="html overflow-auto m-8">&lt;div&gt;
+<pre><code class="html overflow-auto my-8">&lt;div&gt;
   &lt;div class=&quot;-mx-2&quot;&gt;
     &lt;div class=&quot;flex overflow-hidden mx-auto rounded-lg shadow-lg max-w-lg&quot;&gt;
         &lt;div class=&quot;flex flex-col w-1/3&quot;&gt;

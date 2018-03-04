@@ -13,7 +13,7 @@
   </head>
 
   <body>
-    <div class="fixed bg-white border-b w-screen">
+    <div class="fixed bg-white border-b shadow w-screen">
       <header class="ml-10 py-4">
         <div class="flex items-center py-4 md:py-0 text-grey-light">
           <a href="index.php">

@@ -129,6 +129,7 @@ let colors = {
   'pink-lightest': '#ffebef',
 
   'theme-purple': '#450b54',
+  'theme-purple-lighter': '#670b54',
 
   'theme-redish': '#fb0c25',
   'theme-redish-light': '#fb5c65',
