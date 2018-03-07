@@ -26,11 +26,11 @@
               <img src="./images/logo.png" alt="caff source logo" class="w-16">
             </a>
 
-            <h1 :class="{ hidden: showMenu }" class="md:block ml-4">Caff Source 
+            <h1 class="hidden md:block ml-4">Caff Source 
               <span class="font-thin">Component Library</span>
             </h1>
 
-            <form :class="{ hidden: showMenu }" class="md:block">
+            <form class="hidden md:block">
               <input class="border border-solid border-grey py-2 px-6 rounded-full w-112" type="text" placeholder="Search...">
             </form>
             
@@ -45,5 +45,5 @@
       </div>
 
       <?php include 'partials/navigation.php'; ?>
-      <div class="flex flex-col md:h-screen md:w-4/5 mt-12 overflow-y-scroll px-4 w-full">
+      <div class="flex flex-col md:h-screen md:w-4/5 mt-12 overflow-y-scroll px-4 max-w-5xl w-full">
       <div class="m-8 pb-4">

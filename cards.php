@@ -64,8 +64,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
 
 <div>
   <div class="-mx-2">
-    <div class="flex overflow-hidden mx-auto rounded-lg shadow-lg max-w-md">
-        <div class="flex flex-col w-1/3">
+    <div class="md:flex overflow-hidden mx-auto rounded-lg shadow-lg max-w-md">
+        <div class="md:flex flex-col md:w-1/3 md:h-full w-full">
           <div class="p-8">
             <h2 class="mb-4 text-2xl text-theme-redish">Card Title</h2>
             <p class="leading-normal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore tenetur tempore beatae, sed.</p>
@@ -77,7 +77,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
           </div>
         </div>
 
-        <div class="flex flex-col w-2/3">
+        <div class="md:flex flex-col md:w-2/3 md:h-full w-full">
           <img class="block" src="http://via.placeholder.com/500x400" alt="placeholder">
         </div>
     </div>
