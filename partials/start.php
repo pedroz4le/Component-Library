@@ -15,7 +15,7 @@
 
   <body>
     <div id="app">
-      <div class="fixed bg-white border-b shadow w-screen">
+      <div class="fixed bg-white border-b shadow w-full">
         <header class="ml-10 py-0 md:py-4">
           <div class="flex items-center justify-between py-4 md:py-0 text-grey-light">
             <button v-on:click="showMenu = !showMenu" class="md:hidden text-grey-light">
