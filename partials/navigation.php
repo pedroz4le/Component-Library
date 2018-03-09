@@ -2,7 +2,7 @@
     <div class="flex flex-col md:w-1/5 md:h-screen mt-12 w-full">
       <div class="h-full text-white overflow-scroll">
         <nav :class="{ hidden: showMenu }" class="md:block shadow-lg md:shadow-none">
-          <ul class="font-thin list-reset m-8 px-6 text-lg">
+          <ul class="border-b md:border-none font-thin list-reset px-6 py-4 text-lg">
             <li class="ml-4 mb-8">
               <a class="block md:inline no-underline text-grey-darkest hover:font-bold hover:text-grey-light" href="alerts.php">Alerts</a>
             </li>
