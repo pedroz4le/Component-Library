@@ -5,3 +5,7 @@
 .breadcrumb-item:not(:last-child):after {
   content: "/";
 }
+
+.bg-brand-gradient{
+    background-image: linear-gradient(to right, #450B54, #FB0C25) !important;
+}

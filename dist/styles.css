@@ -720,7 +720,7 @@ button,
 }
 
 .bg-red-lightest {
-  background-color: #fda6af;
+  background-color: #fdc3c1;
 }
 
 .bg-orange-darkest {
@@ -776,7 +776,7 @@ button,
 }
 
 .bg-yellow-lightest {
-  background-color: #fff5a2;
+  background-color: #ffffc4;
 }
 
 .bg-green-darkest {
@@ -828,11 +828,11 @@ button,
 }
 
 .bg-teal-lighter {
-  background-color: #00f8d6;
+  background-color: #52fcde;
 }
 
 .bg-teal-lightest {
-  background-color: #a0f0ed;
+  background-color: #a8fcdd;
 }
 
 .bg-blue-darkest {
@@ -980,7 +980,7 @@ button,
 }
 
 .hover\:bg-red-lightest:hover {
-  background-color: #fda6af;
+  background-color: #fdc3c1;
 }
 
 .hover\:bg-orange-darkest:hover {
@@ -1036,7 +1036,7 @@ button,
 }
 
 .hover\:bg-yellow-lightest:hover {
-  background-color: #fff5a2;
+  background-color: #ffffc4;
 }
 
 .hover\:bg-green-darkest:hover {
@@ -1088,11 +1088,11 @@ button,
 }
 
 .hover\:bg-teal-lighter:hover {
-  background-color: #00f8d6;
+  background-color: #52fcde;
 }
 
 .hover\:bg-teal-lightest:hover {
-  background-color: #a0f0ed;
+  background-color: #a8fcdd;
 }
 
 .hover\:bg-blue-darkest:hover {
@@ -1300,7 +1300,7 @@ button,
 }
 
 .border-red-lightest {
-  border-color: #fda6af;
+  border-color: #fdc3c1;
 }
 
 .border-orange-darkest {
@@ -1356,7 +1356,7 @@ button,
 }
 
 .border-yellow-lightest {
-  border-color: #fff5a2;
+  border-color: #ffffc4;
 }
 
 .border-green-darkest {
@@ -1408,11 +1408,11 @@ button,
 }
 
 .border-teal-lighter {
-  border-color: #00f8d6;
+  border-color: #52fcde;
 }
 
 .border-teal-lightest {
-  border-color: #a0f0ed;
+  border-color: #a8fcdd;
 }
 
 .border-blue-darkest {
@@ -1560,7 +1560,7 @@ button,
 }
 
 .hover\:border-red-lightest:hover {
-  border-color: #fda6af;
+  border-color: #fdc3c1;
 }
 
 .hover\:border-orange-darkest:hover {
@@ -1616,7 +1616,7 @@ button,
 }
 
 .hover\:border-yellow-lightest:hover {
-  border-color: #fff5a2;
+  border-color: #ffffc4;
 }
 
 .hover\:border-green-darkest:hover {
@@ -1668,11 +1668,11 @@ button,
 }
 
 .hover\:border-teal-lighter:hover {
-  border-color: #00f8d6;
+  border-color: #52fcde;
 }
 
 .hover\:border-teal-lightest:hover {
-  border-color: #a0f0ed;
+  border-color: #a8fcdd;
 }
 
 .hover\:border-blue-darkest:hover {
@@ -3780,7 +3780,7 @@ button,
 }
 
 .text-red-lightest {
-  color: #fda6af;
+  color: #fdc3c1;
 }
 
 .text-orange-darkest {
@@ -3836,7 +3836,7 @@ button,
 }
 
 .text-yellow-lightest {
-  color: #fff5a2;
+  color: #ffffc4;
 }
 
 .text-green-darkest {
@@ -3888,11 +3888,11 @@ button,
 }
 
 .text-teal-lighter {
-  color: #00f8d6;
+  color: #52fcde;
 }
 
 .text-teal-lightest {
-  color: #a0f0ed;
+  color: #a8fcdd;
 }
 
 .text-blue-darkest {
@@ -4040,7 +4040,7 @@ button,
 }
 
 .hover\:text-red-lightest:hover {
-  color: #fda6af;
+  color: #fdc3c1;
 }
 
 .hover\:text-orange-darkest:hover {
@@ -4096,7 +4096,7 @@ button,
 }
 
 .hover\:text-yellow-lightest:hover {
-  color: #fff5a2;
+  color: #ffffc4;
 }
 
 .hover\:text-green-darkest:hover {
@@ -4148,11 +4148,11 @@ button,
 }
 
 .hover\:text-teal-lighter:hover {
-  color: #00f8d6;
+  color: #52fcde;
 }
 
 .hover\:text-teal-lightest:hover {
-  color: #a0f0ed;
+  color: #a8fcdd;
 }
 
 .hover\:text-blue-darkest:hover {
@@ -4625,6 +4625,10 @@ button,
   content: "/";
 }
 
+.bg-brand-gradient {
+  background-image: linear-gradient(to right, #450b54, #fb0c25) !important;
+}
+
 @media (min-width: 576px) {
   .sm\:list-reset {
     list-style: none;
@@ -4708,7 +4712,7 @@ button,
   }
 
   .sm\:bg-red-lightest {
-    background-color: #fda6af;
+    background-color: #fdc3c1;
   }
 
   .sm\:bg-orange-darkest {
@@ -4764,7 +4768,7 @@ button,
   }
 
   .sm\:bg-yellow-lightest {
-    background-color: #fff5a2;
+    background-color: #ffffc4;
   }
 
   .sm\:bg-green-darkest {
@@ -4816,11 +4820,11 @@ button,
   }
 
   .sm\:bg-teal-lighter {
-    background-color: #00f8d6;
+    background-color: #52fcde;
   }
 
   .sm\:bg-teal-lightest {
-    background-color: #a0f0ed;
+    background-color: #a8fcdd;
   }
 
   .sm\:bg-blue-darkest {
@@ -4968,7 +4972,7 @@ button,
   }
 
   .sm\:hover\:bg-red-lightest:hover {
-    background-color: #fda6af;
+    background-color: #fdc3c1;
   }
 
   .sm\:hover\:bg-orange-darkest:hover {
@@ -5024,7 +5028,7 @@ button,
   }
 
   .sm\:hover\:bg-yellow-lightest:hover {
-    background-color: #fff5a2;
+    background-color: #ffffc4;
   }
 
   .sm\:hover\:bg-green-darkest:hover {
@@ -5076,11 +5080,11 @@ button,
   }
 
   .sm\:hover\:bg-teal-lighter:hover {
-    background-color: #00f8d6;
+    background-color: #52fcde;
   }
 
   .sm\:hover\:bg-teal-lightest:hover {
-    background-color: #a0f0ed;
+    background-color: #a8fcdd;
   }
 
   .sm\:hover\:bg-blue-darkest:hover {
@@ -5288,7 +5292,7 @@ button,
   }
 
   .sm\:border-red-lightest {
-    border-color: #fda6af;
+    border-color: #fdc3c1;
   }
 
   .sm\:border-orange-darkest {
@@ -5344,7 +5348,7 @@ button,
   }
 
   .sm\:border-yellow-lightest {
-    border-color: #fff5a2;
+    border-color: #ffffc4;
   }
 
   .sm\:border-green-darkest {
@@ -5396,11 +5400,11 @@ button,
   }
 
   .sm\:border-teal-lighter {
-    border-color: #00f8d6;
+    border-color: #52fcde;
   }
 
   .sm\:border-teal-lightest {
-    border-color: #a0f0ed;
+    border-color: #a8fcdd;
   }
 
   .sm\:border-blue-darkest {
@@ -5548,7 +5552,7 @@ button,
   }
 
   .sm\:hover\:border-red-lightest:hover {
-    border-color: #fda6af;
+    border-color: #fdc3c1;
   }
 
   .sm\:hover\:border-orange-darkest:hover {
@@ -5604,7 +5608,7 @@ button,
   }
 
   .sm\:hover\:border-yellow-lightest:hover {
-    border-color: #fff5a2;
+    border-color: #ffffc4;
   }
 
   .sm\:hover\:border-green-darkest:hover {
@@ -5656,11 +5660,11 @@ button,
   }
 
   .sm\:hover\:border-teal-lighter:hover {
-    border-color: #00f8d6;
+    border-color: #52fcde;
   }
 
   .sm\:hover\:border-teal-lightest:hover {
-    border-color: #a0f0ed;
+    border-color: #a8fcdd;
   }
 
   .sm\:hover\:border-blue-darkest:hover {
@@ -7760,7 +7764,7 @@ button,
   }
 
   .sm\:text-red-lightest {
-    color: #fda6af;
+    color: #fdc3c1;
   }
 
   .sm\:text-orange-darkest {
@@ -7816,7 +7820,7 @@ button,
   }
 
   .sm\:text-yellow-lightest {
-    color: #fff5a2;
+    color: #ffffc4;
   }
 
   .sm\:text-green-darkest {
@@ -7868,11 +7872,11 @@ button,
   }
 
   .sm\:text-teal-lighter {
-    color: #00f8d6;
+    color: #52fcde;
   }
 
   .sm\:text-teal-lightest {
-    color: #a0f0ed;
+    color: #a8fcdd;
   }
 
   .sm\:text-blue-darkest {
@@ -8020,7 +8024,7 @@ button,
   }
 
   .sm\:hover\:text-red-lightest:hover {
-    color: #fda6af;
+    color: #fdc3c1;
   }
 
   .sm\:hover\:text-orange-darkest:hover {
@@ -8076,7 +8080,7 @@ button,
   }
 
   .sm\:hover\:text-yellow-lightest:hover {
-    color: #fff5a2;
+    color: #ffffc4;
   }
 
   .sm\:hover\:text-green-darkest:hover {
@@ -8128,11 +8132,11 @@ button,
   }
 
   .sm\:hover\:text-teal-lighter:hover {
-    color: #00f8d6;
+    color: #52fcde;
   }
 
   .sm\:hover\:text-teal-lightest:hover {
-    color: #a0f0ed;
+    color: #a8fcdd;
   }
 
   .sm\:hover\:text-blue-darkest:hover {
@@ -8685,7 +8689,7 @@ button,
   }
 
   .md\:bg-red-lightest {
-    background-color: #fda6af;
+    background-color: #fdc3c1;
   }
 
   .md\:bg-orange-darkest {
@@ -8741,7 +8745,7 @@ button,
   }
 
   .md\:bg-yellow-lightest {
-    background-color: #fff5a2;
+    background-color: #ffffc4;
   }
 
   .md\:bg-green-darkest {
@@ -8793,11 +8797,11 @@ button,
   }
 
   .md\:bg-teal-lighter {
-    background-color: #00f8d6;
+    background-color: #52fcde;
   }
 
   .md\:bg-teal-lightest {
-    background-color: #a0f0ed;
+    background-color: #a8fcdd;
   }
 
   .md\:bg-blue-darkest {
@@ -8945,7 +8949,7 @@ button,
   }
 
   .md\:hover\:bg-red-lightest:hover {
-    background-color: #fda6af;
+    background-color: #fdc3c1;
   }
 
   .md\:hover\:bg-orange-darkest:hover {
@@ -9001,7 +9005,7 @@ button,
   }
 
   .md\:hover\:bg-yellow-lightest:hover {
-    background-color: #fff5a2;
+    background-color: #ffffc4;
   }
 
   .md\:hover\:bg-green-darkest:hover {
@@ -9053,11 +9057,11 @@ button,
   }
 
   .md\:hover\:bg-teal-lighter:hover {
-    background-color: #00f8d6;
+    background-color: #52fcde;
   }
 
   .md\:hover\:bg-teal-lightest:hover {
-    background-color: #a0f0ed;
+    background-color: #a8fcdd;
   }
 
   .md\:hover\:bg-blue-darkest:hover {
@@ -9265,7 +9269,7 @@ button,
   }
 
   .md\:border-red-lightest {
-    border-color: #fda6af;
+    border-color: #fdc3c1;
   }
 
   .md\:border-orange-darkest {
@@ -9321,7 +9325,7 @@ button,
   }
 
   .md\:border-yellow-lightest {
-    border-color: #fff5a2;
+    border-color: #ffffc4;
   }
 
   .md\:border-green-darkest {
@@ -9373,11 +9377,11 @@ button,
   }
 
   .md\:border-teal-lighter {
-    border-color: #00f8d6;
+    border-color: #52fcde;
   }
 
   .md\:border-teal-lightest {
-    border-color: #a0f0ed;
+    border-color: #a8fcdd;
   }
 
   .md\:border-blue-darkest {
@@ -9525,7 +9529,7 @@ button,
   }
 
   .md\:hover\:border-red-lightest:hover {
-    border-color: #fda6af;
+    border-color: #fdc3c1;
   }
 
   .md\:hover\:border-orange-darkest:hover {
@@ -9581,7 +9585,7 @@ button,
   }
 
   .md\:hover\:border-yellow-lightest:hover {
-    border-color: #fff5a2;
+    border-color: #ffffc4;
   }
 
   .md\:hover\:border-green-darkest:hover {
@@ -9633,11 +9637,11 @@ button,
   }
 
   .md\:hover\:border-teal-lighter:hover {
-    border-color: #00f8d6;
+    border-color: #52fcde;
   }
 
   .md\:hover\:border-teal-lightest:hover {
-    border-color: #a0f0ed;
+    border-color: #a8fcdd;
   }
 
   .md\:hover\:border-blue-darkest:hover {
@@ -11737,7 +11741,7 @@ button,
   }
 
   .md\:text-red-lightest {
-    color: #fda6af;
+    color: #fdc3c1;
   }
 
   .md\:text-orange-darkest {
@@ -11793,7 +11797,7 @@ button,
   }
 
   .md\:text-yellow-lightest {
-    color: #fff5a2;
+    color: #ffffc4;
   }
 
   .md\:text-green-darkest {
@@ -11845,11 +11849,11 @@ button,
   }
 
   .md\:text-teal-lighter {
-    color: #00f8d6;
+    color: #52fcde;
   }
 
   .md\:text-teal-lightest {
-    color: #a0f0ed;
+    color: #a8fcdd;
   }
 
   .md\:text-blue-darkest {
@@ -11997,7 +12001,7 @@ button,
   }
 
   .md\:hover\:text-red-lightest:hover {
-    color: #fda6af;
+    color: #fdc3c1;
   }
 
   .md\:hover\:text-orange-darkest:hover {
@@ -12053,7 +12057,7 @@ button,
   }
 
   .md\:hover\:text-yellow-lightest:hover {
-    color: #fff5a2;
+    color: #ffffc4;
   }
 
   .md\:hover\:text-green-darkest:hover {
@@ -12105,11 +12109,11 @@ button,
   }
 
   .md\:hover\:text-teal-lighter:hover {
-    color: #00f8d6;
+    color: #52fcde;
   }
 
   .md\:hover\:text-teal-lightest:hover {
-    color: #a0f0ed;
+    color: #a8fcdd;
   }
 
   .md\:hover\:text-blue-darkest:hover {
@@ -12662,7 +12666,7 @@ button,
   }
 
   .lg\:bg-red-lightest {
-    background-color: #fda6af;
+    background-color: #fdc3c1;
   }
 
   .lg\:bg-orange-darkest {
@@ -12718,7 +12722,7 @@ button,
   }
 
   .lg\:bg-yellow-lightest {
-    background-color: #fff5a2;
+    background-color: #ffffc4;
   }
 
   .lg\:bg-green-darkest {
@@ -12770,11 +12774,11 @@ button,
   }
 
   .lg\:bg-teal-lighter {
-    background-color: #00f8d6;
+    background-color: #52fcde;
   }
 
   .lg\:bg-teal-lightest {
-    background-color: #a0f0ed;
+    background-color: #a8fcdd;
   }
 
   .lg\:bg-blue-darkest {
@@ -12922,7 +12926,7 @@ button,
   }
 
   .lg\:hover\:bg-red-lightest:hover {
-    background-color: #fda6af;
+    background-color: #fdc3c1;
   }
 
   .lg\:hover\:bg-orange-darkest:hover {
@@ -12978,7 +12982,7 @@ button,
   }
 
   .lg\:hover\:bg-yellow-lightest:hover {
-    background-color: #fff5a2;
+    background-color: #ffffc4;
   }
 
   .lg\:hover\:bg-green-darkest:hover {
@@ -13030,11 +13034,11 @@ button,
   }
 
   .lg\:hover\:bg-teal-lighter:hover {
-    background-color: #00f8d6;
+    background-color: #52fcde;
   }
 
   .lg\:hover\:bg-teal-lightest:hover {
-    background-color: #a0f0ed;
+    background-color: #a8fcdd;
   }
 
   .lg\:hover\:bg-blue-darkest:hover {
@@ -13242,7 +13246,7 @@ button,
   }
 
   .lg\:border-red-lightest {
-    border-color: #fda6af;
+    border-color: #fdc3c1;
   }
 
   .lg\:border-orange-darkest {
@@ -13298,7 +13302,7 @@ button,
   }
 
   .lg\:border-yellow-lightest {
-    border-color: #fff5a2;
+    border-color: #ffffc4;
   }
 
   .lg\:border-green-darkest {
@@ -13350,11 +13354,11 @@ button,
   }
 
   .lg\:border-teal-lighter {
-    border-color: #00f8d6;
+    border-color: #52fcde;
   }
 
   .lg\:border-teal-lightest {
-    border-color: #a0f0ed;
+    border-color: #a8fcdd;
   }
 
   .lg\:border-blue-darkest {
@@ -13502,7 +13506,7 @@ button,
   }
 
   .lg\:hover\:border-red-lightest:hover {
-    border-color: #fda6af;
+    border-color: #fdc3c1;
   }
 
   .lg\:hover\:border-orange-darkest:hover {
@@ -13558,7 +13562,7 @@ button,
   }
 
   .lg\:hover\:border-yellow-lightest:hover {
-    border-color: #fff5a2;
+    border-color: #ffffc4;
   }
 
   .lg\:hover\:border-green-darkest:hover {
@@ -13610,11 +13614,11 @@ button,
   }
 
   .lg\:hover\:border-teal-lighter:hover {
-    border-color: #00f8d6;
+    border-color: #52fcde;
   }
 
   .lg\:hover\:border-teal-lightest:hover {
-    border-color: #a0f0ed;
+    border-color: #a8fcdd;
   }
 
   .lg\:hover\:border-blue-darkest:hover {
@@ -15714,7 +15718,7 @@ button,
   }
 
   .lg\:text-red-lightest {
-    color: #fda6af;
+    color: #fdc3c1;
   }
 
   .lg\:text-orange-darkest {
@@ -15770,7 +15774,7 @@ button,
   }
 
   .lg\:text-yellow-lightest {
-    color: #fff5a2;
+    color: #ffffc4;
   }
 
   .lg\:text-green-darkest {
@@ -15822,11 +15826,11 @@ button,
   }
 
   .lg\:text-teal-lighter {
-    color: #00f8d6;
+    color: #52fcde;
   }
 
   .lg\:text-teal-lightest {
-    color: #a0f0ed;
+    color: #a8fcdd;
   }
 
   .lg\:text-blue-darkest {
@@ -15974,7 +15978,7 @@ button,
   }
 
   .lg\:hover\:text-red-lightest:hover {
-    color: #fda6af;
+    color: #fdc3c1;
   }
 
   .lg\:hover\:text-orange-darkest:hover {
@@ -16030,7 +16034,7 @@ button,
   }
 
   .lg\:hover\:text-yellow-lightest:hover {
-    color: #fff5a2;
+    color: #ffffc4;
   }
 
   .lg\:hover\:text-green-darkest:hover {
@@ -16082,11 +16086,11 @@ button,
   }
 
   .lg\:hover\:text-teal-lighter:hover {
-    color: #00f8d6;
+    color: #52fcde;
   }
 
   .lg\:hover\:text-teal-lightest:hover {
-    color: #a0f0ed;
+    color: #a8fcdd;
   }
 
   .lg\:hover\:text-blue-darkest:hover {
@@ -16639,7 +16643,7 @@ button,
   }
 
   .xl\:bg-red-lightest {
-    background-color: #fda6af;
+    background-color: #fdc3c1;
   }
 
   .xl\:bg-orange-darkest {
@@ -16695,7 +16699,7 @@ button,
   }
 
   .xl\:bg-yellow-lightest {
-    background-color: #fff5a2;
+    background-color: #ffffc4;
   }
 
   .xl\:bg-green-darkest {
@@ -16747,11 +16751,11 @@ button,
   }
 
   .xl\:bg-teal-lighter {
-    background-color: #00f8d6;
+    background-color: #52fcde;
   }
 
   .xl\:bg-teal-lightest {
-    background-color: #a0f0ed;
+    background-color: #a8fcdd;
   }
 
   .xl\:bg-blue-darkest {
@@ -16899,7 +16903,7 @@ button,
   }
 
   .xl\:hover\:bg-red-lightest:hover {
-    background-color: #fda6af;
+    background-color: #fdc3c1;
   }
 
   .xl\:hover\:bg-orange-darkest:hover {
@@ -16955,7 +16959,7 @@ button,
   }
 
   .xl\:hover\:bg-yellow-lightest:hover {
-    background-color: #fff5a2;
+    background-color: #ffffc4;
   }
 
   .xl\:hover\:bg-green-darkest:hover {
@@ -17007,11 +17011,11 @@ button,
   }
 
   .xl\:hover\:bg-teal-lighter:hover {
-    background-color: #00f8d6;
+    background-color: #52fcde;
   }
 
   .xl\:hover\:bg-teal-lightest:hover {
-    background-color: #a0f0ed;
+    background-color: #a8fcdd;
   }
 
   .xl\:hover\:bg-blue-darkest:hover {
@@ -17219,7 +17223,7 @@ button,
   }
 
   .xl\:border-red-lightest {
-    border-color: #fda6af;
+    border-color: #fdc3c1;
   }
 
   .xl\:border-orange-darkest {
@@ -17275,7 +17279,7 @@ button,
   }
 
   .xl\:border-yellow-lightest {
-    border-color: #fff5a2;
+    border-color: #ffffc4;
   }
 
   .xl\:border-green-darkest {
@@ -17327,11 +17331,11 @@ button,
   }
 
   .xl\:border-teal-lighter {
-    border-color: #00f8d6;
+    border-color: #52fcde;
   }
 
   .xl\:border-teal-lightest {
-    border-color: #a0f0ed;
+    border-color: #a8fcdd;
   }
 
   .xl\:border-blue-darkest {
@@ -17479,7 +17483,7 @@ button,
   }
 
   .xl\:hover\:border-red-lightest:hover {
-    border-color: #fda6af;
+    border-color: #fdc3c1;
   }
 
   .xl\:hover\:border-orange-darkest:hover {
@@ -17535,7 +17539,7 @@ button,
   }
 
   .xl\:hover\:border-yellow-lightest:hover {
-    border-color: #fff5a2;
+    border-color: #ffffc4;
   }
 
   .xl\:hover\:border-green-darkest:hover {
@@ -17587,11 +17591,11 @@ button,
   }
 
   .xl\:hover\:border-teal-lighter:hover {
-    border-color: #00f8d6;
+    border-color: #52fcde;
   }
 
   .xl\:hover\:border-teal-lightest:hover {
-    border-color: #a0f0ed;
+    border-color: #a8fcdd;
   }
 
   .xl\:hover\:border-blue-darkest:hover {
@@ -19691,7 +19695,7 @@ button,
   }
 
   .xl\:text-red-lightest {
-    color: #fda6af;
+    color: #fdc3c1;
   }
 
   .xl\:text-orange-darkest {
@@ -19747,7 +19751,7 @@ button,
   }
 
   .xl\:text-yellow-lightest {
-    color: #fff5a2;
+    color: #ffffc4;
   }
 
   .xl\:text-green-darkest {
@@ -19799,11 +19803,11 @@ button,
   }
 
   .xl\:text-teal-lighter {
-    color: #00f8d6;
+    color: #52fcde;
   }
 
   .xl\:text-teal-lightest {
-    color: #a0f0ed;
+    color: #a8fcdd;
   }
 
   .xl\:text-blue-darkest {
@@ -19951,7 +19955,7 @@ button,
   }
 
   .xl\:hover\:text-red-lightest:hover {
-    color: #fda6af;
+    color: #fdc3c1;
   }
 
   .xl\:hover\:text-orange-darkest:hover {
@@ -20007,7 +20011,7 @@ button,
   }
 
   .xl\:hover\:text-yellow-lightest:hover {
-    color: #fff5a2;
+    color: #ffffc4;
   }
 
   .xl\:hover\:text-green-darkest:hover {
@@ -20059,11 +20063,11 @@ button,
   }
 
   .xl\:hover\:text-teal-lighter:hover {
-    color: #00f8d6;
+    color: #52fcde;
   }
 
   .xl\:hover\:text-teal-lightest:hover {
-    color: #a0f0ed;
+    color: #a8fcdd;
   }
 
   .xl\:hover\:text-blue-darkest:hover {

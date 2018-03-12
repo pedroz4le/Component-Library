@@ -36,9 +36,7 @@
             </form>
             
             <span class="m-6">
-            <a href="https://github.com/pedroz4le/Component-Library">
-              <img src="./images/gitHubIcon.png" alt="GitHub icon link" class="w-8">
-            </a>
+              <i class="fab fa-github hover:text-grey-lightest text-4xl"></i>
             </span>
 
           </div>
