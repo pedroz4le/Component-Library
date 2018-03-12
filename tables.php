@@ -22,31 +22,31 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
 
     <div class="mx-auto overflow-hidden rounded-lg max-w-lg">
       <div class="flex flex-wrap">
-        <div class="bg-red border-b border-red-darker flex-1 p-6 text-center text-white">one</div>
-        <div class="bg-grey-light flex-1 p-6 text-center">two</div>
-        <div class="bg-grey-lighter flex-1 p-6 text-center">three</div>
-        <div class="bg-grey-light flex-1 p-6 text-center">four</div>
+        <div class="bg-red-darker border-b border-red-darker flex-1 p-6 text-center text-white">Roast Style Attributes</div>
+        <div class="bg-red-lighter border-r border-red-darker flex-1 p-6 text-center text-white">Bean Surface</div>
+        <div class="bg-red-lighter border-r border-red-darker flex-1 p-6 text-center text-white">Acidity</div>
+        <div class="bg-red-lighter flex-1 p-6 text-center text-white">Sweetness</div>
       </div>
 
       <div class="flex flex-wrap mx-auto max-w-lg">
-        <div class="bg-red border-b border-red-darker flex-1 p-6 text-center text-white">one</div>
-        <div class="bg-grey-lighter flex-1 p-6 text-center">two</div>
-        <div class="bg-grey-light flex-1 p-6 text-center">three</div>
-        <div class="bg-grey-lighter flex-1 p-6 text-center">four</div>
+        <div class="bg-red border-b border-red-darker flex-1 p-6 text-center text-white">Vienna</div>
+        <div class="bg-grey-lighter border-r border-grey flex-1 p-6 text-center">Shiny Surface</div>
+        <div class="bg-grey-lighter border-r border-grey flex-1 p-6 text-center">Low</div>
+        <div class="bg-grey-lighter flex-1 p-6 text-center">Medium to Strong</div>
       </div>
 
       <div class="flex flex-wrap mx-auto max-w-lg">
-        <div class="bg-red border-b border-red-darker flex-1 p-6 text-center text-white">one</div>
-        <div class="bg-grey-light flex-1 p-6 text-center">two</div>
-        <div class="bg-grey-lighter flex-1 p-6 text-center">three</div>
-        <div class="bg-grey-light flex-1 p-6 text-center">four</div>
+        <div class="bg-red border-b border-red-darker flex-1 p-6 text-center text-white">Full City</div>
+        <div class="bg-grey-light border-r border-grey flex-1 p-6 text-center">Shiny Surface</div>
+        <div class="bg-grey-light border-r border-grey flex-1 p-6 text-center">Medium</div>
+        <div class="bg-grey-light flex-1 p-6 text-center">Medium to Strong</div>
       </div>
 
       <div class="flex flex-wrap mx-auto max-w-lg">
-        <div class="bg-red border-b border-red-darker flex-1 p-6 text-center text-white">one</div>
-        <div class="bg-grey-lighter flex-1 p-6 text-center">two</div>
-        <div class="bg-grey-light flex-1 p-6 text-center">three</div>
-        <div class="bg-grey-lighter flex-1 p-6 text-center">four</div>
+        <div class="bg-red border-b border-red-darker flex-1 p-6 text-center text-white">Cinnamon</div>
+        <div class="bg-grey-lighter border-r border-grey flex-1 p-6 text-center">Dry</div>
+        <div class="bg-grey-lighter border-r border-grey flex-1 p-6 text-center">High</div>
+        <div class="bg-grey-lighter flex-1 p-6 text-center">Low</div>
       </div>
     </div>
 
