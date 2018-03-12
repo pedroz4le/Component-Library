@@ -46,5 +46,5 @@
       </div>
 
       <?php include 'partials/navigation.php'; ?>
-      <div class="flex flex-col md:h-screen md:w-4/5 mt-12 overflow-y-scroll px-4 max-w-5xl w-full">
+      <div class="flex flex-col md:h-screen md:w-4/5 mt-12 overflow-y-scroll px-4 max-w-4xl w-full">
       <div class="m-8 pb-4">

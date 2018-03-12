@@ -11,99 +11,113 @@
 
 <!-- ALTERNATE BACKGROUND TABLE -->
 
-<h2 class="font-thin pb-4">Alternate Background Table</h2>
+<h2 class="font-thin pb-4">Left to Right Reading Table</h2>
 <p class="leading-normal pb-8">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et unde non nam, consequatur expedita nulla fugiat tempora ex similique necessitatibus consequuntur mollitia eum soluta laudantium, repudiandae hic nobis minus laboriosam.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga inventore, cumque, praesentium distinctio, fugit consectetur necessitatibus numquam accusamus rem beatae. Maxime similique voluptatem voluptatibus quaerat, voluptas harum, culpa?</p>
 
 
-<table class="border mx-auto w-1/2">
-  <tr>
-    <th class="p-2">Company</th>
-    <th class="p-2">Contact</th>
-    <th class="p-2">Country</th>
-  </tr>
+<div class="border border-grey-dark mb-8 mx-auto overflow-hidden rounded max-w-lg">
+  <div class="border-b border-grey-dark p-8 text-center">
 
-  <tr class="bg-grey-light">
-    <td class="p-2">Alfreds Futterkiste</td>
-    <td class="p-2">Maria Anders</td>
-    <td class="p-2">Germany</td>
-  </tr>
+    <div class="border border-grey-lighter flex flex-wrap mx-auto overflow-hidden rounded-lg max-w-lg">
+      <div class="bg-red border-r flex flex-col items-center text-white w-1/4">
+        <div class="p-6">ID</div>
+        <div class="p-6">Title</div>
+        <div class="p-6">Type</div>
+      </div>
 
-  <tr>
-    <td class="p-2">Centro comercial Moctezuma</td>
-    <td class="p-2">Francisco Chang</td>
-    <td class="p-2">Mexico</td>
-  </tr>
+      <div class="flex flex-col items-center w-1/4">
+        <div class="p-6">1</div>
+        <div class="p-6">Nibh Quae</div>
+        <div class="p-6">Basic Page</div>
+      </div>
 
-  <tr class="bg-grey-light">
-    <td class="p-2">Ernst Handel</td>
-    <td class="p-2">Roland Mendel</td>
-    <td class="p-2">Austria</td>
-  </tr>
+      <div class="bg-grey-lighter flex flex-col items-center w-1/4">
+        <div class="p-6">2</div>
+        <div class="p-6">Gravis Praesent</div>
+        <div class="p-6">Article</div>
+      </div>
 
-  <tr>
-    <td class="p-2">Island Trading</td>
-    <td class="p-2">Helen Bennett</td>
-    <td class="p-2">UK</td>
-  </tr>
+      <div class="flex flex-col items-center w-1/4">
+        <div class="p-6">3</div>
+        <div class="p-6">Norstrud Voco</div>
+        <div class="p-6">Basic Page</div>
+      </div>
+    </div>
 
-  <tr class="bg-grey-light">
-    <td class="p-2">Laughing Bacchus Winecellars</td>
-    <td class="p-2">Yoshi Tannamuri</td>
-    <td class="p-2">Canada</td>
-  </tr>
+  </div>
 
-  <tr>
-    <td class="p-2">Magazzini Alimentari Riuniti</td>
-    <td class="p-2">Giovanni Rovelli</td>
-    <td class="p-2">Italy</td>
-  </tr>
-</table>
+  <div class="p-4 bg-grey-lightest">
+    <pre class="language-html" style="margin: 0px; padding: 0px;">
+      <code class="language-html text-sm">
+&lt;div class=&quot;border border-grey-lighter flex flex-wrap mx-auto overflow-hidden rounded-lg max-w-lg&quot;&gt;
+      &lt;div class=&quot;bg-red border-r flex flex-col items-center text-white w-1/4&quot;&gt;
+        &lt;div class=&quot;p-6&quot;&gt;ID&lt;/div&gt;
+        &lt;div class=&quot;p-6&quot;&gt;Title&lt;/div&gt;
+        &lt;div class=&quot;p-6&quot;&gt;Type&lt;/div&gt;
+      &lt;/div&gt;
 
-<pre><code class="html overflow-auto my-8">&lt;table class=&quot;border mx-auto w-1/2&quot;&gt;
-  &lt;tr&gt;
-    &lt;th class=&quot;p-2&quot;&gt;Company&lt;/th&gt;
-    &lt;th class=&quot;p-2&quot;&gt;Contact&lt;/th&gt;
-    &lt;th class=&quot;p-2&quot;&gt;Country&lt;/th&gt;
-  &lt;/tr&gt;
+      &lt;div class=&quot;flex flex-col items-center w-1/4&quot;&gt;
+        &lt;div class=&quot;p-6&quot;&gt;1&lt;/div&gt;
+        &lt;div class=&quot;p-6&quot;&gt;Nibh Quae&lt;/div&gt;
+        &lt;div class=&quot;p-6&quot;&gt;Basic Page&lt;/div&gt;
+      &lt;/div&gt;
 
-  &lt;tr class=&quot;bg-grey-light&quot;&gt;
-    &lt;td class=&quot;p-2&quot;&gt;Alfreds Futterkiste&lt;/td&gt;
-    &lt;td class=&quot;p-2&quot;&gt;Maria Anders&lt;/td&gt;
-    &lt;td class=&quot;p-2&quot;&gt;Germany&lt;/td&gt;
-  &lt;/tr&gt;
+      &lt;div class=&quot;bg-grey-lighter flex flex-col items-center w-1/4&quot;&gt;
+        &lt;div class=&quot;p-6&quot;&gt;2&lt;/div&gt;
+        &lt;div class=&quot;p-6&quot;&gt;Gravis Praesent&lt;/div&gt;
+        &lt;div class=&quot;p-6&quot;&gt;Article&lt;/div&gt;
+      &lt;/div&gt;
 
-  &lt;tr&gt;
-    &lt;td class=&quot;p-2&quot;&gt;Centro comercial Moctezuma&lt;/td&gt;
-    &lt;td class=&quot;p-2&quot;&gt;Francisco Chang&lt;/td&gt;
-    &lt;td class=&quot;p-2&quot;&gt;Mexico&lt;/td&gt;
-  &lt;/tr&gt;
+      &lt;div class=&quot;flex flex-col items-center w-1/4&quot;&gt;
+        &lt;div class=&quot;p-6&quot;&gt;3&lt;/div&gt;
+        &lt;div class=&quot;p-6&quot;&gt;Norstrud Voco&lt;/div&gt;
+        &lt;div class=&quot;p-6&quot;&gt;Basic Page&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+      </code>
+    </pre>
+  </div>
+</div>
 
-  &lt;tr class=&quot;bg-grey-light&quot;&gt;
-    &lt;td class=&quot;p-2&quot;&gt;Ernst Handel&lt;/td&gt;
-    &lt;td class=&quot;p-2&quot;&gt;Roland Mendel&lt;/td&gt;
-    &lt;td class=&quot;p-2&quot;&gt;Austria&lt;/td&gt;
-  &lt;/tr&gt;
+<div class="border-b w-screen my-10"></div>
 
-  &lt;tr&gt;
-    &lt;td class=&quot;p-2&quot;&gt;Island Trading&lt;/td&gt;
-    &lt;td class=&quot;p-2&quot;&gt;Helen Bennett&lt;/td&gt;
-    &lt;td class=&quot;p-2&quot;&gt;UK&lt;/td&gt;
-  &lt;/tr&gt;
+<!-- DATA TABLE -->
 
-  &lt;tr class=&quot;bg-grey-light&quot;&gt;
-    &lt;td class=&quot;p-2&quot;&gt;Laughing Bacchus Winecellars&lt;/td&gt;
-    &lt;td class=&quot;p-2&quot;&gt;Yoshi Tannamuri&lt;/td&gt;
-    &lt;td class=&quot;p-2&quot;&gt;Canada&lt;/td&gt;
-  &lt;/tr&gt;
+<h2 class="font-thin pb-4">Data Table</h2>
+<p class="leading-normal pb-8">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et unde non nam, consequatur expedita nulla fugiat tempora ex similique necessitatibus consequuntur mollitia eum soluta laudantium, repudiandae hic nobis minus laboriosam.
 
-  &lt;tr&gt;
-    &lt;td class=&quot;p-2&quot;&gt;Magazzini Alimentari Riuniti&lt;/td&gt;
-    &lt;td class=&quot;p-2&quot;&gt;Giovanni Rovelli&lt;/td&gt;
-    &lt;td class=&quot;p-2&quot;&gt;Italy&lt;/td&gt;
-  &lt;/tr&gt;
-&lt;/table&gt;
-</code></pre>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga inventore, cumque, praesentium distinctio, fugit consectetur necessitatibus numquam accusamus rem beatae. Maxime similique voluptatem voluptatibus quaerat, voluptas harum, culpa?</p>
+
+<div class="mx-auto overflow-hidden rounded-lg max-w-lg">
+  <div class="flex flex-wrap">
+    <div class="bg-red border-r flex-1 p-6 text-center text-white">one</div>
+    <div class="bg-red border-r flex-1 p-6 text-center text-white">two</div>
+    <div class="bg-red border-r flex-1 p-6 text-center text-white">three</div>
+    <div class="bg-red flex-1 p-6 text-center text-white">four</div>
+  </div>
+
+  <div class="flex flex-wrap mx-auto max-w-lg">
+    <div class="flex-1 bg-grey-light p-6 text-center">one</div>
+    <div class="flex-1 bg-grey-lighter p-6 text-center">two</div>
+    <div class="flex-1 bg-grey-light p-6 text-center">three</div>
+    <div class="flex-1 bg-grey-lighter p-6 text-center">four</div>
+  </div>
+
+  <div class="flex flex-wrap mx-auto max-w-lg">
+    <div class="flex-1 bg-grey-lighter p-6 text-center">one</div>
+    <div class="flex-1 bg-grey-light p-6 text-center">two</div>
+    <div class="flex-1 bg-grey-lighter p-6 text-center">three</div>
+    <div class="flex-1 bg-grey-light p-6 text-center">four</div>
+  </div>
+
+  <div class="flex flex-wrap mx-auto max-w-lg">
+    <div class="flex-1 bg-grey-light p-6 text-center">one</div>
+    <div class="flex-1 bg-grey-lighter p-6 text-center">two</div>
+    <div class="flex-1 bg-grey-light p-6 text-center">three</div>
+    <div class="flex-1 bg-grey-lighter p-6 text-center">four</div>
+  </div>
+</div>
 
 <?php include'partials/end.php'; ?>
