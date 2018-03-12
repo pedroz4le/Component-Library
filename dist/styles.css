@@ -4517,6 +4517,14 @@ button,
   width: 28rem;
 }
 
+.w-128 {
+  width: 32rem;
+}
+
+.w-144 {
+  width: 36rem;
+}
+
 .w-auto {
   width: auto;
 }
@@ -8489,6 +8497,14 @@ button,
     width: 28rem;
   }
 
+  .sm\:w-128 {
+    width: 32rem;
+  }
+
+  .sm\:w-144 {
+    width: 36rem;
+  }
+
   .sm\:w-auto {
     width: auto;
   }
@@ -12456,6 +12472,14 @@ button,
 
   .md\:w-112 {
     width: 28rem;
+  }
+
+  .md\:w-128 {
+    width: 32rem;
+  }
+
+  .md\:w-144 {
+    width: 36rem;
   }
 
   .md\:w-auto {
@@ -16427,6 +16451,14 @@ button,
     width: 28rem;
   }
 
+  .lg\:w-128 {
+    width: 32rem;
+  }
+
+  .lg\:w-144 {
+    width: 36rem;
+  }
+
   .lg\:w-auto {
     width: auto;
   }
@@ -20394,6 +20426,14 @@ button,
 
   .xl\:w-112 {
     width: 28rem;
+  }
+
+  .xl\:w-128 {
+    width: 32rem;
+  }
+
+  .xl\:w-144 {
+    width: 36rem;
   }
 
   .xl\:w-auto {

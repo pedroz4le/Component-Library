@@ -17,10 +17,10 @@
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga inventore, cumque, praesentium distinctio, fugit consectetur necessitatibus numquam accusamus rem beatae. Maxime similique voluptatem voluptatibus quaerat, voluptas harum, culpa?</p>
 
 
-<div class="border border-grey-dark mb-8 mx-auto overflow-hidden rounded max-w-lg">
+<div class="border border-grey-dark mb-8 mx-auto overflow-scroll rounded max-w-lg">
   <div class="border-b border-grey-dark p-8 text-center">
 
-    <div class="mx-auto overflow-hidden rounded-lg max-w-lg">
+    <div class="mx-auto overflow-hidden rounded-lg w-128 md:w-144">
       <div class="flex flex-wrap">
         <div class="bg-red-darker border-b border-red-darker flex-1 p-6 text-center text-white">Roast Style Attributes</div>
         <div class="bg-red-lighter border-r border-red-darker flex-1 p-6 text-center text-white">Bean Surface</div>
@@ -52,10 +52,38 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
 
   </div>
 
-  <div class="p-4 bg-grey-lightest">
+  <div class="bg-grey-lightest overflow-scroll p-4">
     <pre class="language-html" style="margin: 0px; padding: 0px;">
       <code class="language-html text-sm">
+&lt;div class=&quot;mx-auto overflow-hidden rounded-lg max-w-lg&quot;&gt;
+      &lt;div class=&quot;flex flex-wrap&quot;&gt;
+        &lt;div class=&quot;bg-red-darker border-b border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Roast Style Attributes&lt;/div&gt;
+        &lt;div class=&quot;bg-red-lighter border-r border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Bean Surface&lt;/div&gt;
+        &lt;div class=&quot;bg-red-lighter border-r border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Acidity&lt;/div&gt;
+        &lt;div class=&quot;bg-red-lighter flex-1 p-6 text-center text-white&quot;&gt;Sweetness&lt;/div&gt;
+      &lt;/div&gt;
 
+      &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
+        &lt;div class=&quot;bg-red border-b border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Vienna&lt;/div&gt;
+        &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;Shiny Surface&lt;/div&gt;
+        &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;Low&lt;/div&gt;
+        &lt;div class=&quot;bg-grey-lighter flex-1 p-6 text-center&quot;&gt;Medium to Strong&lt;/div&gt;
+      &lt;/div&gt;
+
+      &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
+        &lt;div class=&quot;bg-red border-b border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Full City&lt;/div&gt;
+        &lt;div class=&quot;bg-grey-light border-r border-grey flex-1 p-6 text-center&quot;&gt;Shiny Surface&lt;/div&gt;
+        &lt;div class=&quot;bg-grey-light border-r border-grey flex-1 p-6 text-center&quot;&gt;Medium&lt;/div&gt;
+        &lt;div class=&quot;bg-grey-light flex-1 p-6 text-center&quot;&gt;Medium to Strong&lt;/div&gt;
+      &lt;/div&gt;
+
+      &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
+        &lt;div class=&quot;bg-red border-b border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Cinnamon&lt;/div&gt;
+        &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;Dry&lt;/div&gt;
+        &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;High&lt;/div&gt;
+        &lt;div class=&quot;bg-grey-lighter flex-1 p-6 text-center&quot;&gt;Low&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
       </code>
     </pre>
   </div>
@@ -70,36 +98,54 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga inventore, cumque, praesentium distinctio, fugit consectetur necessitatibus numquam accusamus rem beatae. Maxime similique voluptatem voluptatibus quaerat, voluptas harum, culpa?</p>
 
-<div class="border border-grey-dark mb-8 mx-auto overflow-hidden rounded max-w-lg">
-  <div class="border-b border-grey-dark p-8 text-center">
+<div class="border border-grey-dark mb-8 mx-auto overflow-scroll rounded max-w-lg">
+  <div class="border-b border-grey-dark mt-6 md:mt-0 p-2 md:p-8 text-center">
 
-    <div class="mx-auto overflow-hidden rounded-lg max-w-lg">
+    <div class="mx-auto overflow-hidden rounded-lg w-96 md:w-128">
       <div class="flex flex-wrap">
-        <div class="bg-red border-r border-red-darker flex-1 p-6 text-center text-white">one</div>
-        <div class="bg-red border-r border-red-darker flex-1 p-6 text-center text-white">two</div>
-        <div class="bg-red border-r border-red-darker flex-1 p-6 text-center text-white">three</div>
-        <div class="bg-red flex-1 p-6 text-center text-white">four</div>
+        <div class="bg-white flex-1 font-bold mb-6 text-center text-xl">COFFEE GRIND CHEAT SHEET</div>
+      </div>
+
+      <div class="flex flex-wrap">
+        <div class="bg-red border-r border-red-darker flex-1 p-6 text-center text-white">Device</div>
+        <div class="bg-red border-r border-red-darker flex-1 p-6 text-center text-white">Taste Profile</div>
+        <div class="bg-red border-r border-red-darker flex-1 p-6 text-center text-white">Grind</div>
       </div>
 
       <div class="flex flex-wrap mx-auto max-w-lg">
-        <div class="flex-1 bg-grey-light p-6 text-center">one</div>
-        <div class="flex-1 bg-grey-lighter p-6 text-center">two</div>
-        <div class="flex-1 bg-grey-light p-6 text-center">three</div>
-        <div class="flex-1 bg-grey-lighter p-6 text-center">four</div>
+        <div class="bg-grey-lighter border-r border-grey flex-1 p-6 text-center">Moka Pot</div>
+        <div class="bg-grey-lighter border-r border-grey flex-1 p-6 text-center">strong, bitter</div>
+        <div class="bg-grey-lighter flex-1 p-6 text-center">fine</div>
       </div>
 
       <div class="flex flex-wrap mx-auto max-w-lg">
-        <div class="flex-1 bg-grey-lighter p-6 text-center">one</div>
-        <div class="flex-1 bg-grey-light p-6 text-center">two</div>
-        <div class="flex-1 bg-grey-lighter p-6 text-center">three</div>
-        <div class="flex-1 bg-grey-light p-6 text-center">four</div>
+        <div class="bg-grey-light border-r border-grey flex-1 p-6 text-center">AeroPress</div>
+        <div class="bg-grey-light border-r border-grey flex-1 p-6 text-center">bold, less acidic</div>
+        <div class="bg-grey-light flex-1 p-6 text-center">fine</div>
       </div>
 
       <div class="flex flex-wrap mx-auto max-w-lg">
-        <div class="flex-1 bg-grey-light p-6 text-center">one</div>
-        <div class="flex-1 bg-grey-lighter p-6 text-center">two</div>
-        <div class="flex-1 bg-grey-light p-6 text-center">three</div>
-        <div class="flex-1 bg-grey-lighter p-6 text-center">four</div>
+        <div class="bg-grey-lighter border-r border-grey flex-1 p-6 text-center">French Press</div>
+        <div class="bg-grey-lighter border-r border-grey flex-1 p-6 text-center">thick, rich, bold</div>
+        <div class="bg-grey-lighter flex-1 p-6 text-center">coarse</div>
+      </div>
+
+      <div class="flex flex-wrap mx-auto max-w-lg">
+        <div class="bg-grey-light border-r border-grey flex-1 p-6 text-center">Percolator</div>
+        <div class="bg-grey-light border-r border-grey flex-1 p-6 text-center">smooth, mild</div>
+        <div class="bg-grey-light flex-1 p-6 text-center">coarse</div>
+      </div>
+
+      <div class="flex flex-wrap mx-auto max-w-lg">
+        <div class="bg-grey-lighter border-r border-grey flex-1 p-6 text-center">Chemex</div>
+        <div class="bg-grey-lighter border-r border-grey flex-1 p-6 text-center">crisp, clean</div>
+        <div class="bg-grey-lighter flex-1 p-6 text-center">coarse</div>
+      </div>
+
+      <div class="flex flex-wrap mx-auto max-w-lg">
+        <div class="bg-grey-light border-r border-grey flex-1 p-6 text-center">Drip</div>
+        <div class="bg-grey-light border-r border-grey flex-1 p-6 text-center">light, acidic</div>
+        <div class="bg-grey-light flex-1 p-6 text-center">medium</div>
       </div>
     </div>
 
@@ -108,7 +154,53 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
   <div class="p-4 bg-grey-lightest">
     <pre class="language-html" style="margin: 0px; padding: 0px;">
       <code class="language-html text-sm">
+&lt;div class=&quot;mx-auto overflow-hidden rounded-lg max-w-lg&quot;&gt;
+      &lt;div class=&quot;flex flex-wrap&quot;&gt;
+        &lt;div class=&quot;bg-white flex-1 font-bold mb-6 text-center text-xl&quot;&gt;COFFEE GRIND CHEAT SHEET&lt;/div&gt;
+      &lt;/div&gt;
 
+      &lt;div class=&quot;flex flex-wrap&quot;&gt;
+        &lt;div class=&quot;bg-red border-r border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Device&lt;/div&gt;
+        &lt;div class=&quot;bg-red border-r border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Taste Profile&lt;/div&gt;
+        &lt;div class=&quot;bg-red border-r border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Grind&lt;/div&gt;
+      &lt;/div&gt;
+
+      &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
+        &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;Moka Pot&lt;/div&gt;
+        &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;strong, bitter&lt;/div&gt;
+        &lt;div class=&quot;bg-grey-lighter flex-1 p-6 text-center&quot;&gt;fine&lt;/div&gt;
+      &lt;/div&gt;
+
+      &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
+        &lt;div class=&quot;bg-grey-light border-r border-grey flex-1 p-6 text-center&quot;&gt;AeroPress&lt;/div&gt;
+        &lt;div class=&quot;bg-grey-light border-r border-grey flex-1 p-6 text-center&quot;&gt;bold, less acidic&lt;/div&gt;
+        &lt;div class=&quot;bg-grey-light flex-1 p-6 text-center&quot;&gt;fine&lt;/div&gt;
+      &lt;/div&gt;
+
+      &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
+        &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;French Press&lt;/div&gt;
+        &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;thick, rich, bold&lt;/div&gt;
+        &lt;div class=&quot;bg-grey-lighter flex-1 p-6 text-center&quot;&gt;coarse&lt;/div&gt;
+      &lt;/div&gt;
+
+      &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
+        &lt;div class=&quot;bg-grey-light border-r border-grey flex-1 p-6 text-center&quot;&gt;Percolator&lt;/div&gt;
+        &lt;div class=&quot;bg-grey-light border-r border-grey flex-1 p-6 text-center&quot;&gt;smooth, mild&lt;/div&gt;
+        &lt;div class=&quot;bg-grey-light flex-1 p-6 text-center&quot;&gt;coarse&lt;/div&gt;
+      &lt;/div&gt;
+
+      &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
+        &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;Chemex&lt;/div&gt;
+        &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;crisp, clean&lt;/div&gt;
+        &lt;div class=&quot;bg-grey-lighter flex-1 p-6 text-center&quot;&gt;coarse&lt;/div&gt;
+      &lt;/div&gt;
+
+      &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
+        &lt;div class=&quot;bg-grey-light border-r border-grey flex-1 p-6 text-center&quot;&gt;Drip&lt;/div&gt;
+        &lt;div class=&quot;bg-grey-light border-r border-grey flex-1 p-6 text-center&quot;&gt;light, acidic&lt;/div&gt;
+        &lt;div class=&quot;bg-grey-light flex-1 p-6 text-center&quot;&gt;medium&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
       </code>
     </pre>
   </div>
