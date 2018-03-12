@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero perspiciatis quam
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero perspiciatis quam corrupti quaerat in blanditiis mollitia quo unde impedit ullam incidunt quos id quia possimus, ipsum veniam nihil iure amet.</p>
 
-<div class="border-b w-screen my-10"></div>
+<div class="border-b w-full my-10"></div>
 
 <h2 class="font-thin pb-4">Default Color Pallette</h2>
 <p class="leading-normal pb-8">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et unde non nam, consequatur expedita nulla fugiat tempora ex similique necessitatibus consequuntur mollitia eum soluta laudantium, repudiandae hic nobis minus laboriosam.</p>

@@ -5,7 +5,7 @@
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga inventore, cumque, praesentium distinctio, fugit consectetur necessitatibus numquam accusamus rem beatae. Maxime similique voluptatem voluptatibus quaerat, voluptas harum, culpa?</p>
 
-<div class="border-b w-screen my-10"></div>
+<div class="border-b w-full my-10"></div>
 
 <!-- FOOTER 1 -->
 
@@ -15,7 +15,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
 <pre><code class="html overflow-auto my-8">
 </code></pre>
 
-<div class="border-b w-screen my-10"></div>
+<div class="border-b w-full my-10"></div>
 
 <!-- FOOTER 2 -->
 

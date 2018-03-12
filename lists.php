@@ -6,7 +6,7 @@
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga inventore, cumque, praesentium distinctio, fugit consectetur necessitatibus numquam accusamus rem beatae. Maxime similique voluptatem voluptatibus quaerat, voluptas harum, culpa?</p>
 
-<div class="border-b w-screen my-10"></div>
+<div class="border-b w-full my-10"></div>
 
 <!-- NUMBERED LIST -->
 
@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
 &lt;/ol&gt;
 </code></pre>
 
-<div class="border-b w-screen my-10"></div>
+<div class="border-b w-full my-10"></div>
 
 <!-- BULLET LIST -->
 

@@ -7,7 +7,7 @@
 
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui nostrum minus vel sed, quos saepe eveniet, consequatur praesentium assumenda officia mollitia maiores, perspiciatis at quia porro soluta autem ipsum aut.</p>
 
-<div class="border-b w-screen my-10"></div>
+<div class="border-b w-full my-10"></div>
 
 <!-- VERTICAL CARD COMPONENT -->
 
@@ -23,7 +23,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
       <div class="p-8">
         <h2 class="mb-4 text-2xl text-theme-redish">Card Title</h2>
         <p class="leading-normal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore tenetur tempore beatae, sed.</p>
-        <a class="bg-theme-redish font-bold hover:bg-theme-redish-light inline-block mt-4 no-underline px-8 py-4 rounded-full shadow-sm text-lg text-white tracking-wide" href="#">
+        <a class="bg-red font-bold inline-block hover:bg-red-lighter mt-4 no-underline px-8 py-4 rounded-full shadow-sm text-lg text-white tracking-wide" href="#">
           <div class="flex items-center">
             Button<i class="fas fa-lg fa-angle-right ml-6"></i>
           </div>
@@ -51,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
 &lt;/div&gt;
 </code></pre>
 
-<div class="border-b w-screen my-10"></div>
+<div class="border-b w-full my-10"></div>
 
 <!-- HORIZONTAL CARD COMPONENT -->
 
@@ -69,7 +69,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
           <div class="p-8">
             <h2 class="mb-4 text-2xl text-theme-redish">Card Title</h2>
             <p class="leading-normal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore tenetur tempore beatae, sed.</p>
-            <a class="bg-theme-redish font-bold hover:bg-theme-redish-light inline-block mt-4 no-underline px-8 py-4 rounded-full shadow-sm text-lg text-white tracking-wide" href="#">
+            <a class="bg-red font-bold inline-block hover:bg-red-lighter mt-4 no-underline px-8 py-4 rounded-full shadow-sm text-lg text-white tracking-wide" href="#">
               <div class="flex items-center">
                 Button<i class="fas fa-lg fa-angle-right ml-6"></i>
               </div>

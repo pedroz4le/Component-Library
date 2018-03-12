@@ -7,7 +7,7 @@
 
 	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui nostrum minus vel sed, quos saepe eveniet, consequatur praesentium assumenda officia mollitia maiores, perspiciatis at quia porro soluta autem ipsum aut.</p>
 
-<div class="border-b w-screen my-10"></div>
+<div class="border-b w-full my-10"></div>
 
 <!-- POSITIVE ALERT -->
 
@@ -25,7 +25,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
 &lt;/div&gt;
 </code></pre>
 
-<div class="border-b w-screen my-10"></div>
+<div class="border-b w-full my-10"></div>
 
 <!-- NEGATIVE ALERT -->
 
