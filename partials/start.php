@@ -35,8 +35,8 @@
               <input class="border border-solid border-grey py-2 px-6 rounded-full w-112" type="text" placeholder="Search...">
             </form>
             
-            <span class="m-6">
-              <i class="fab fa-github hover:text-grey-lightest text-4xl"></i>
+            <span class="m-6 pr-6">
+              <a href="https://github.com/pedroz4le/Component-Library"><i class="fab fa-github text-grey-light hover:text-grey-lightest text-4xl"></i></a>
             </span>
 
           </div>
