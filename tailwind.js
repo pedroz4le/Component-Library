@@ -119,6 +119,8 @@ let colors = {
   'pink-lighter': '#FF87A3',
   'pink-lightest': '#FFB2BD',
 
+  'home': '#902442',
+
 }
 
 module.exports = {

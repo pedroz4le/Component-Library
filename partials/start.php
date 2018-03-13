@@ -23,7 +23,7 @@
               <i class="fas fa-2x fa-bars"></i>
             </button>
 
-            <a href="index.php">
+            <a href="aboutCaffSource.php">
               <img src="./images/logo.png" alt="caff source logo" class="w-16">
             </a>
 

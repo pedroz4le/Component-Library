@@ -8,7 +8,7 @@
             </li>
 
             <li class="ml-4 mb-8">
-              <a class="block md:inline no-underline text-grey-darker hover:font-bold hover:text-grey-light" href="index.php">About Caff Source</a>
+              <a class="block md:inline no-underline text-grey-darker hover:font-bold hover:text-grey-light" href="aboutCaffSource.php">About Caff Source</a>
             </li>
 
             <li class="pt-8 ml-4 mb-8">
