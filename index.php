@@ -161,7 +161,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero perspiciatis quam
 
 					<div class="bg-yellow-lightest flex items-center justify-between p-6">
 						<span>Lightest</span>
-						<span>#FFFCA9</span>
+						<span>#FFFFC4</span>
 					</div>
 
 					<div class="bg-yellow-lighter flex items-center justify-between p-6">
