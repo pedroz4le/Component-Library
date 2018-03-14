@@ -19,7 +19,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
 <div class="border border-grey-dark mb-8 mx-auto overflow-scroll rounded max-w-lg">
   <div class="border-b border-grey-dark p-8 text-center">
 
-    <div class="">
+    <div>
       <ol class="breadcrumbs flex list-reset mx-auto">
         <li class="breadcrumb-item mr-4">
           <a class="font-bold hover:text-red-lighter mr-3 no-underline text-lg text-red" href="#">Electronics</a>
@@ -41,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
   <div class="px-4 bg-grey-lightest">
     <pre class="language-html" style="margin: 0px; padding: 0px;">
       <code class="language-html text-sm">
-&lt;div class=&quot;bg-grey-lighter mx-6 my-10 px-8 py-4 rounded-full &quot;&gt;
+&lt;div&gt;
   &lt;ol class=&quot;breadcrumbs flex list-reset mx-auto&quot;&gt;
     &lt;li class=&quot;breadcrumb-item mr-4&quot;&gt;
       &lt;a class=&quot;font-bold hover:text-red-lighter mr-3 no-underline text-lg text-red&quot; href=&quot;#&quot;&gt;Electronics&lt;/a&gt;

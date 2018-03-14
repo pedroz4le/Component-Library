@@ -55,35 +55,35 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
   <div class="bg-grey-lightest overflow-scroll p-4">
     <pre class="language-html" style="margin: 0px; padding: 0px;">
       <code class="language-html text-sm">
-&lt;div class=&quot;mx-auto overflow-hidden rounded-lg max-w-lg&quot;&gt;
-      &lt;div class=&quot;flex flex-wrap&quot;&gt;
-        &lt;div class=&quot;bg-red-darker border-b border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Roast Style Attributes&lt;/div&gt;
-        &lt;div class=&quot;bg-red-lighter border-r border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Bean Surface&lt;/div&gt;
-        &lt;div class=&quot;bg-red-lighter border-r border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Acidity&lt;/div&gt;
-        &lt;div class=&quot;bg-red-lighter flex-1 p-6 text-center text-white&quot;&gt;Sweetness&lt;/div&gt;
-      &lt;/div&gt;
+&lt;div class=&quot;mx-auto overflow-hidden rounded-lg w-128 md:w-144&quot;&gt;
+  &lt;div class=&quot;flex flex-wrap&quot;&gt;
+    &lt;div class=&quot;bg-red-darker border-b border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Roast Style Attributes&lt;/div&gt;
+    &lt;div class=&quot;bg-red-lighter border-r border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Bean Surface&lt;/div&gt;
+    &lt;div class=&quot;bg-red-lighter border-r border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Acidity&lt;/div&gt;
+    &lt;div class=&quot;bg-red-lighter flex-1 p-6 text-center text-white&quot;&gt;Sweetness&lt;/div&gt;
+  &lt;/div&gt;
 
-      &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
-        &lt;div class=&quot;bg-red border-b border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Vienna&lt;/div&gt;
-        &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;Shiny Surface&lt;/div&gt;
-        &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;Low&lt;/div&gt;
-        &lt;div class=&quot;bg-grey-lighter flex-1 p-6 text-center&quot;&gt;Medium to Strong&lt;/div&gt;
-      &lt;/div&gt;
+  &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
+    &lt;div class=&quot;bg-red border-b border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Vienna&lt;/div&gt;
+    &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;Shiny Surface&lt;/div&gt;
+    &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;Low&lt;/div&gt;
+    &lt;div class=&quot;bg-grey-lighter flex-1 p-6 text-center&quot;&gt;Medium to Strong&lt;/div&gt;
+  &lt;/div&gt;
 
-      &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
-        &lt;div class=&quot;bg-red border-b border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Full City&lt;/div&gt;
-        &lt;div class=&quot;bg-grey-light border-r border-grey flex-1 p-6 text-center&quot;&gt;Shiny Surface&lt;/div&gt;
-        &lt;div class=&quot;bg-grey-light border-r border-grey flex-1 p-6 text-center&quot;&gt;Medium&lt;/div&gt;
-        &lt;div class=&quot;bg-grey-light flex-1 p-6 text-center&quot;&gt;Medium to Strong&lt;/div&gt;
-      &lt;/div&gt;
+  &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
+    &lt;div class=&quot;bg-red border-b border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Full City&lt;/div&gt;
+    &lt;div class=&quot;bg-grey-light border-r border-grey flex-1 p-6 text-center&quot;&gt;Shiny Surface&lt;/div&gt;
+    &lt;div class=&quot;bg-grey-light border-r border-grey flex-1 p-6 text-center&quot;&gt;Medium&lt;/div&gt;
+    &lt;div class=&quot;bg-grey-light flex-1 p-6 text-center&quot;&gt;Medium to Strong&lt;/div&gt;
+  &lt;/div&gt;
 
-      &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
-        &lt;div class=&quot;bg-red border-b border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Cinnamon&lt;/div&gt;
-        &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;Dry&lt;/div&gt;
-        &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;High&lt;/div&gt;
-        &lt;div class=&quot;bg-grey-lighter flex-1 p-6 text-center&quot;&gt;Low&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
+  &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
+    &lt;div class=&quot;bg-red border-b border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Cinnamon&lt;/div&gt;
+    &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;Dry&lt;/div&gt;
+    &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;High&lt;/div&gt;
+    &lt;div class=&quot;bg-grey-lighter flex-1 p-6 text-center&quot;&gt;Low&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
       </code>
     </pre>
   </div>
@@ -154,53 +154,53 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
   <div class="p-4 bg-grey-lightest">
     <pre class="language-html" style="margin: 0px; padding: 0px;">
       <code class="language-html text-sm">
-&lt;div class=&quot;mx-auto overflow-hidden rounded-lg max-w-lg&quot;&gt;
-      &lt;div class=&quot;flex flex-wrap&quot;&gt;
-        &lt;div class=&quot;bg-white flex-1 font-bold mb-6 text-center text-xl&quot;&gt;COFFEE GRIND CHEAT SHEET&lt;/div&gt;
-      &lt;/div&gt;
+&lt;div class=&quot;mx-auto overflow-hidden rounded-lg w-96 md:w-128&quot;&gt;
+  &lt;div class=&quot;flex flex-wrap&quot;&gt;
+    &lt;div class=&quot;bg-white flex-1 font-bold mb-6 text-center text-xl&quot;&gt;COFFEE GRIND CHEAT SHEET&lt;/div&gt;
+  &lt;/div&gt;
 
-      &lt;div class=&quot;flex flex-wrap&quot;&gt;
-        &lt;div class=&quot;bg-red border-r border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Device&lt;/div&gt;
-        &lt;div class=&quot;bg-red border-r border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Taste Profile&lt;/div&gt;
-        &lt;div class=&quot;bg-red border-r border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Grind&lt;/div&gt;
-      &lt;/div&gt;
+  &lt;div class=&quot;flex flex-wrap&quot;&gt;
+    &lt;div class=&quot;bg-red border-r border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Device&lt;/div&gt;
+    &lt;div class=&quot;bg-red border-r border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Taste Profile&lt;/div&gt;
+    &lt;div class=&quot;bg-red border-r border-red-darker flex-1 p-6 text-center text-white&quot;&gt;Grind&lt;/div&gt;
+  &lt;/div&gt;
 
-      &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
-        &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;Moka Pot&lt;/div&gt;
-        &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;strong, bitter&lt;/div&gt;
-        &lt;div class=&quot;bg-grey-lighter flex-1 p-6 text-center&quot;&gt;fine&lt;/div&gt;
-      &lt;/div&gt;
+  &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
+    &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;Moka Pot&lt;/div&gt;
+    &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;strong, bitter&lt;/div&gt;
+    &lt;div class=&quot;bg-grey-lighter flex-1 p-6 text-center&quot;&gt;fine&lt;/div&gt;
+  &lt;/div&gt;
 
-      &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
-        &lt;div class=&quot;bg-grey-light border-r border-grey flex-1 p-6 text-center&quot;&gt;AeroPress&lt;/div&gt;
-        &lt;div class=&quot;bg-grey-light border-r border-grey flex-1 p-6 text-center&quot;&gt;bold, less acidic&lt;/div&gt;
-        &lt;div class=&quot;bg-grey-light flex-1 p-6 text-center&quot;&gt;fine&lt;/div&gt;
-      &lt;/div&gt;
+  &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
+    &lt;div class=&quot;bg-grey-light border-r border-grey flex-1 p-6 text-center&quot;&gt;AeroPress&lt;/div&gt;
+    &lt;div class=&quot;bg-grey-light border-r border-grey flex-1 p-6 text-center&quot;&gt;bold, less acidic&lt;/div&gt;
+    &lt;div class=&quot;bg-grey-light flex-1 p-6 text-center&quot;&gt;fine&lt;/div&gt;
+  &lt;/div&gt;
 
-      &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
-        &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;French Press&lt;/div&gt;
-        &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;thick, rich, bold&lt;/div&gt;
-        &lt;div class=&quot;bg-grey-lighter flex-1 p-6 text-center&quot;&gt;coarse&lt;/div&gt;
-      &lt;/div&gt;
+  &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
+    &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;French Press&lt;/div&gt;
+    &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;thick, rich, bold&lt;/div&gt;
+    &lt;div class=&quot;bg-grey-lighter flex-1 p-6 text-center&quot;&gt;coarse&lt;/div&gt;
+  &lt;/div&gt;
 
-      &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
-        &lt;div class=&quot;bg-grey-light border-r border-grey flex-1 p-6 text-center&quot;&gt;Percolator&lt;/div&gt;
-        &lt;div class=&quot;bg-grey-light border-r border-grey flex-1 p-6 text-center&quot;&gt;smooth, mild&lt;/div&gt;
-        &lt;div class=&quot;bg-grey-light flex-1 p-6 text-center&quot;&gt;coarse&lt;/div&gt;
-      &lt;/div&gt;
+  &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
+    &lt;div class=&quot;bg-grey-light border-r border-grey flex-1 p-6 text-center&quot;&gt;Percolator&lt;/div&gt;
+    &lt;div class=&quot;bg-grey-light border-r border-grey flex-1 p-6 text-center&quot;&gt;smooth, mild&lt;/div&gt;
+    &lt;div class=&quot;bg-grey-light flex-1 p-6 text-center&quot;&gt;coarse&lt;/div&gt;
+  &lt;/div&gt;
 
-      &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
-        &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;Chemex&lt;/div&gt;
-        &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;crisp, clean&lt;/div&gt;
-        &lt;div class=&quot;bg-grey-lighter flex-1 p-6 text-center&quot;&gt;coarse&lt;/div&gt;
-      &lt;/div&gt;
+  &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
+    &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;Chemex&lt;/div&gt;
+    &lt;div class=&quot;bg-grey-lighter border-r border-grey flex-1 p-6 text-center&quot;&gt;crisp, clean&lt;/div&gt;
+    &lt;div class=&quot;bg-grey-lighter flex-1 p-6 text-center&quot;&gt;coarse&lt;/div&gt;
+  &lt;/div&gt;
 
-      &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
-        &lt;div class=&quot;bg-grey-light border-r border-grey flex-1 p-6 text-center&quot;&gt;Drip&lt;/div&gt;
-        &lt;div class=&quot;bg-grey-light border-r border-grey flex-1 p-6 text-center&quot;&gt;light, acidic&lt;/div&gt;
-        &lt;div class=&quot;bg-grey-light flex-1 p-6 text-center&quot;&gt;medium&lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
+  &lt;div class=&quot;flex flex-wrap mx-auto max-w-lg&quot;&gt;
+    &lt;div class=&quot;bg-grey-light border-r border-grey flex-1 p-6 text-center&quot;&gt;Drip&lt;/div&gt;
+    &lt;div class=&quot;bg-grey-light border-r border-grey flex-1 p-6 text-center&quot;&gt;light, acidic&lt;/div&gt;
+    &lt;div class=&quot;bg-grey-light flex-1 p-6 text-center&quot;&gt;medium&lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
       </code>
     </pre>
   </div>
