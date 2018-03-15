@@ -160,7 +160,74 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
 	<div class="px-4 bg-grey-lightest">
 		<pre class="language-html" style="margin: 0px; padding: 0px;">
 			<code class="language-html text-sm">
+&lt;div class=&quot;rounded-b-lg&quot;&gt;
+	&lt;div class=&quot;md:flex bg-grey-lighter mx-auto px-10 py-12&quot;&gt;
+		&lt;div class=&quot;md:flex flex-col mb-8 md:mb-0 w-full md:w-1/4&quot;&gt;
+			&lt;img src=&quot;../images/logo.png&quot; alt=&quot;brand logo&quot; class=&quot;mb-6 w-16&quot;&gt;
+			&lt;div class=&quot;font-bold text-xl&quot;&gt;
+				Caff Source
+			&lt;/div&gt;
 
+			&lt;div class=&quot;font-thin text-xl&quot;&gt;
+				Component Library
+			&lt;/div&gt;
+
+			&lt;div class=&quot;flex justify-between mt-6 max-w-2xs&quot;&gt;
+				&lt;a href=&quot;#&quot; class=&quot;hover:text-white no-underline text-black&quot;&gt;&lt;i class=&quot;fab fa-facebook-f&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+				&lt;a href=&quot;#&quot; class=&quot;hover:text-white no-underline text-black&quot;&gt;&lt;i class=&quot;fab fa-twitter&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+				&lt;a href=&quot;#&quot; class=&quot;hover:text-white no-underline text-black&quot;&gt;&lt;i class=&quot;fab fa-instagram&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+				&lt;a href=&quot;#&quot; class=&quot;hover:text-white no-underline text-black&quot;&gt;&lt;i class=&quot;fab fa-behance&quot;&gt;&lt;/i&gt;&lt;/a&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+
+		&lt;div class=&quot;md:flex flex-col ml-6 mb-8 md:mb-0 w-full md:w-1/4&quot;&gt;
+			&lt;ul class=&quot;list-reset&quot;&gt;
+				&lt;li class=&quot;mb-2&quot;&gt;
+					&lt;a class=&quot;hover:text-white hover:font-bold no-underline text-black&quot; href=&quot;#&quot;&gt;About&lt;/a&gt;
+				&lt;/li&gt;
+
+				&lt;li class=&quot;mb-2&quot;&gt;
+					&lt;a class=&quot;hover:text-white hover:font-bold no-underline text-black&quot; href=&quot;#&quot;&gt;Careers&lt;/a&gt;
+				&lt;/li&gt;
+
+				&lt;li class=&quot;mb-2&quot;&gt;
+					&lt;a class=&quot;hover:text-white hover:font-bold no-underline text-black&quot; href=&quot;#&quot;&gt;Team&lt;/a&gt;
+				&lt;/li&gt;
+
+				&lt;li class=&quot;mb-2&quot;&gt;
+					&lt;a class=&quot;hover:text-white hover:font-bold no-underline text-black&quot; href=&quot;#&quot;&gt;Owner Profile&lt;/a&gt;
+				&lt;/li&gt;
+
+				&lt;li class=&quot;mb-2&quot;&gt;
+					&lt;a class=&quot;hover:text-white hover:font-bold no-underline text-black&quot; href=&quot;#&quot;&gt;History&lt;/a&gt;
+				&lt;/li&gt;
+			&lt;/ul&gt;
+			
+		&lt;/div&gt;
+
+		&lt;div class=&quot;md:flex flex-col w-full md:w-1/2&quot;&gt;
+			&lt;div class=&quot;mb-6&quot;&gt;
+				Sign Up for Updates:
+			&lt;/div&gt;
+
+			&lt;div class=&quot;inline-flex&quot;&gt;
+				&lt;form&gt;
+	              &lt;input class=&quot;bg-white border border-solid border-grey px-6 py-2 rounded-l-full text-sm w-32 md:w-32 lg:w-64 xl:w-80&quot; type=&quot;text&quot; placeholder=&quot;Email&quot;&gt;
+	            &lt;/form&gt;
+
+				&lt;a class=&quot;bg-brand-gradient font-bold hover:bg-brand-gradient hover:bg-red-lighter no-underline px-6 py-2 rounded-r-full shadow-sm text-sm text-white tracking-wide&quot; href=&quot;#&quot;&gt;
+					Submit
+				&lt;/a&gt;
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+
+	&lt;div class=&quot;bg-grey-dark font-light p-2 rounded-b-lg text-grey-light text-sm&quot;&gt;
+		&lt;div class=&quot;ml-6&quot;&gt;
+			&copy;&lt;i&gt; Copyright Caff Source 2018. All rights reserved. Powered by &lt;a class=&quot;hover:text-black no-underline text-white&quot; href=&quot;https://tailwindcss.com&quot;&gt;Tailwind&lt;/a&gt;.&lt;/i&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
 			</code>
 		</pre>
 	</div>
