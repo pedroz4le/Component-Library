@@ -16,4 +16,16 @@
 	background-image: url("http://www.pedrozaarts.com/CaffSource/images/homePic.png");
 }
 
+.heroImage1{
+	background-image: url("http://www.pedrozaarts.com/CaffSource/images/coffeePicThree.jpg");
+}
+
+.heroImage2{
+	background-image: url("http://www.pedrozaarts.com/CaffSource/images/coffeePicFour.jpg");
+}
+
+.text-shadow{
+	text-shadow: 2px 2px 8px #000000;
+}
+
 @tailwind utilities;

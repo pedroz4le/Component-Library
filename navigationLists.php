@@ -8,35 +8,157 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
 
 <div class="border-b w-full my-10"></div>
 
-<!-- BAR NAVIGATION -->
+<!-- SECTIONAL NAVIGATION LIST -->
 
-<h2 class="font-thin pb-4">Bar Navigation</h2>
+<h2 class="font-thin pb-4">Sectional Navigation List</h2>
 <p class="leading-normal pb-8">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et unde non nam, consequatur expedita nulla fugiat tempora ex similique necessitatibus consequuntur mollitia eum soluta laudantium, repudiandae hic nobis minus laboriosam.</p>
 
-<div class="bg-green flex mx-auto p-4 w-1/4">
-	<nav>
-		<h2>Center Learning</h2>
-		<ul class="list-reset">
-			<li><a href="#" class="no-underline text-white">Home</a></li>
-			<li><a href="#" class="no-underline text-white">About Us</a></li>
-			<li><a href="#" class="no-underline text-white">History</a></li>
-			<li><a href="#" class="no-underline text-white">Contact Us</a></li>
-		</ul>
-	</nav>
+<div class="border border-grey-dark mb-8 mx-auto overflow-hidden rounded max-w-md">
+	<div class="border-b border-grey-dark p-8">
+
+		<nav class="bg-grey-lighter mx-auto p-6 max-w-xs">
+		  <ul class="font-thin list-reset">
+		  	<!-- SECTION ONE -->
+		  	<li class="border-b font-bold mb-2 ml-2 tracking-wide">
+		  		INTRODUCTION
+		  	</li>
+
+		  		<li class="mb-4 ml-6">
+		  			<a href="#" class="hover:text-red no-underline text-black">
+		  				About Caff Source
+		  			</a>
+		  		</li>
+
+		  	<!-- SECTION TWO -->
+		  	<li class="border-b font-bold mb-2 ml-2 tracking-wide">
+		  		COMPONENTS
+		  	</li>
+				
+				<!-- SUB-SECTION ONE -->
+		  		<li class="mb-2 ml-6">
+		  			<a href="#" class="hover:text-red no-underline text-black">
+		  				Alerts
+		  			</a>
+		  		</li>
+
+		  			<li class="mb-2 ml-10">
+		  				<a href="#" class="hover:text-red-lighter text-black">
+		  					Solid
+		  				</a>
+		  			</li>
+
+		  			<li class="mb-2 ml-10">
+		  				<a href="#" class="hover:text-red-lighter text-black">
+		  					Border
+		  				</a>
+		  			</li>
+		  			<li class="mb-2 ml-10">
+		  				<a href="#" class="hover:text-red-lighter text-black">
+		  					Side Bar
+		  				</a>
+		  			</li>
+
+				<!-- SUB-SECTION TWO -->
+		  		<li class="mb-2 ml-6">
+		  			<a href="#" class="hover:text-red no-underline text-black">
+		  				Badges
+		  			</a>
+		  		</li>
+
+		  			<li class="mb-2 ml-10">
+		  				<a href="#" class="hover:text-red-lighter text-black">
+		  					Informational
+		  				</a>
+		  			</li>
+
+		  			<li class="mb-2 ml-10">
+		  				<a href="#" class="hover:text-red-lighter text-black">
+		  					Notification
+		  				</a>
+		  			</li>
+		  			<li class="mb-2 ml-10">
+		  				<a href="#" class="hover:text-red-lighter text-black">
+		  					Call to Attention
+		  				</a>
+		  			</li>
+		  </ul>
+		</nav>
+
+	</div>
+
+	<div class="px-4 bg-grey-lightest">
+		<pre class="language-html" style="margin: 0px; padding: 0px;">
+			<code class="language-html text-sm">
+&lt;nav class=&quot;bg-grey-lighter mx-auto p-6 max-w-xs&quot;&gt;
+  &lt;ul class=&quot;font-thin list-reset&quot;&gt;
+  	&lt;!-- SECTION ONE --&gt;
+  	&lt;li class=&quot;border-b font-bold mb-2 ml-2 tracking-wide&quot;&gt;
+  		INTRODUCTION
+  	&lt;/li&gt;
+
+  		&lt;li class=&quot;mb-4 ml-6&quot;&gt;
+  			&lt;a href=&quot;#&quot; class=&quot;hover:text-red no-underline text-black&quot;&gt;
+  				About Caff Source
+  			&lt;/a&gt;
+  		&lt;/li&gt;
+
+  	&lt;!-- SECTION TWO --&gt;
+  	&lt;li class=&quot;border-b font-bold mb-2 ml-2 tracking-wide&quot;&gt;
+  		COMPONENTS
+  	&lt;/li&gt;
+		
+		&lt;!-- SUB-SECTION ONE --&gt;
+  		&lt;li class=&quot;mb-2 ml-6&quot;&gt;
+  			&lt;a href=&quot;#&quot; class=&quot;hover:text-red no-underline text-black&quot;&gt;
+  				Alerts
+  			&lt;/a&gt;
+  		&lt;/li&gt;
+
+  			&lt;li class=&quot;mb-2 ml-10&quot;&gt;
+  				&lt;a href=&quot;#&quot; class=&quot;hover:text-red-lighter text-black&quot;&gt;
+  					Solid
+  				&lt;/a&gt;
+  			&lt;/li&gt;
+
+  			&lt;li class=&quot;mb-2 ml-10&quot;&gt;
+  				&lt;a href=&quot;#&quot; class=&quot;hover:text-red-lighter text-black&quot;&gt;
+  					Border
+  				&lt;/a&gt;
+  			&lt;/li&gt;
+  			&lt;li class=&quot;mb-2 ml-10&quot;&gt;
+  				&lt;a href=&quot;#&quot; class=&quot;hover:text-red-lighter text-black&quot;&gt;
+  					Side Bar
+  				&lt;/a&gt;
+  			&lt;/li&gt;
+
+		&lt;!-- SUB-SECTION TWO --&gt;
+  		&lt;li class=&quot;mb-2 ml-6&quot;&gt;
+  			&lt;a href=&quot;#&quot; class=&quot;hover:text-red no-underline text-black&quot;&gt;
+  				Badges
+  			&lt;/a&gt;
+  		&lt;/li&gt;
+
+  			&lt;li class=&quot;mb-2 ml-10&quot;&gt;
+  				&lt;a href=&quot;#&quot; class=&quot;hover:text-red-lighter text-black&quot;&gt;
+  					Informational
+  				&lt;/a&gt;
+  			&lt;/li&gt;
+
+  			&lt;li class=&quot;mb-2 ml-10&quot;&gt;
+  				&lt;a href=&quot;#&quot; class=&quot;hover:text-red-lighter text-black&quot;&gt;
+  					Notification
+  				&lt;/a&gt;
+  			&lt;/li&gt;
+  			&lt;li class=&quot;mb-2 ml-10&quot;&gt;
+  				&lt;a href=&quot;#&quot; class=&quot;hover:text-red-lighter text-black&quot;&gt;
+  					Call to Attention
+  				&lt;/a&gt;
+  			&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+			</code>
+		</pre>
+
 </div>
-
-<pre><code class="html overflow-auto my-8">&lt;div class=&quot;bg-green flex mx-auto p-4 w-1/4&quot;&gt;
-	&lt;nav&gt;
-		&lt;h2&gt;Center Learning&lt;/h2&gt;
-		&lt;ul class=&quot;list-reset&quot;&gt;
-			&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;no-underline text-white&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
-			&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;no-underline text-white&quot;&gt;About Us&lt;/a&gt;&lt;/li&gt;
-			&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;no-underline text-white&quot;&gt;History&lt;/a&gt;&lt;/li&gt;
-			&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;no-underline text-white&quot;&gt;Contact Us&lt;/a&gt;&lt;/li&gt;
-		&lt;/ul&gt;
-	&lt;/nav&gt;
-&lt;/div&gt;
-</code></pre>
-
 
 <?php include'partials/end.php'; ?>

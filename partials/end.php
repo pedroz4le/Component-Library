@@ -10,7 +10,7 @@
         el: '#app',
         data: {
           showMenu: true
-        }
+        },
       })
     </script>
   </body>
