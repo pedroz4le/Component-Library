@@ -1,20 +1,16 @@
 <?php include'partials/start.php'; ?>
 
   <h1 class="pb-4">Media Objects</h1>
-  <p class="leading-normal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui nostrum minus vel sed, quos saepe eveniet, consequatur praesentium assumenda officia mollitia maiores, perspiciatis at quia porro soluta autem ipsum aut.
-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui nostrum minus vel sed, quos saepe eveniet, consequatur praesentium assumenda officia mollitia maiores, perspiciatis at quia porro soluta autem ipsum aut.
-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui nostrum minus vel sed, quos saepe eveniet, consequatur praesentium assumenda officia mollitia maiores, perspiciatis at quia porro soluta autem ipsum aut.</p>
+  <h2 class="font-thin leading-normal pb-8 text-grey-dark max-w-lg">Example of building a media Object component with Tailwind CSS, styled by Caff Source.</h2>
+  <p class="leading-normal">These examples can easily be grabbed for use directly from this page, and further customized through the use of Tailwind classes.</p>
 
 <div class="border-b w-full my-10"></div>
 
 <!-- USER COMMENT -->
 
 <h2 class="font-thin pb-4">User Comment</h2>
-<p class="leading-normal pb-8">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et unde non nam, consequatur expedita nulla fugiat tempora ex similique necessitatibus consequuntur mollitia eum soluta laudantium, repudiandae hic nobis minus laboriosam.</p>
 
-<div class="border border-grey-dark mb-8 mx-auto overflow-hidden rounded max-w-lg">
+<div class="border border-grey-dark mb-8 mx-auto overflow-hidden rounded max-w-2xl">
   <div class="border-b border-grey-dark p-8">
 
     <div class="border mx-auto rounded-lg max-w-lg">

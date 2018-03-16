@@ -1,23 +1,16 @@
 <?php include'partials/start.php'; ?>
 
   <h1 class="pb-4">Tables</h1>
-  <p class="leading-normal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui nostrum minus vel sed, quos saepe eveniet, consequatur praesentium assumenda officia mollitia maiores, perspiciatis at quia porro soluta autem ipsum aut.
-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui nostrum minus vel sed, quos saepe eveniet, consequatur praesentium assumenda officia mollitia maiores, perspiciatis at quia porro soluta autem ipsum aut.
-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui nostrum minus vel sed, quos saepe eveniet, consequatur praesentium assumenda officia mollitia maiores, perspiciatis at quia porro soluta autem ipsum aut.</p>
+  <h2 class="font-thin leading-normal pb-8 text-grey-dark max-w-lg">Examples of building table components with Tailwind CSS, styled by Caff Source.</h2>
+  <p class="leading-normal">These examples can easily be grabbed for use directly from this page, and further customized through the use of Tailwind classes.</p>
 
 <div class="border-b w-full my-10"></div>
 
 <!-- ALTERNATE BACKGROUND TABLE -->
 
 <h2 class="font-thin pb-4">Left to Right Reading Table</h2>
-<p class="leading-normal pb-8">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et unde non nam, consequatur expedita nulla fugiat tempora ex similique necessitatibus consequuntur mollitia eum soluta laudantium, repudiandae hic nobis minus laboriosam.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga inventore, cumque, praesentium distinctio, fugit consectetur necessitatibus numquam accusamus rem beatae. Maxime similique voluptatem voluptatibus quaerat, voluptas harum, culpa?</p>
-
-
-<div class="border border-grey-dark mb-8 mx-auto overflow-scroll rounded max-w-lg">
+<div class="border border-grey-dark mb-8 mx-auto overflow-scroll rounded max-w-2xl">
   <div class="border-b border-grey-dark p-8 text-center">
 
     <div class="mx-auto overflow-hidden rounded-lg w-128 md:w-144">
@@ -94,11 +87,8 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
 <!-- DATA TABLE -->
 
 <h2 class="font-thin pb-4">Data Table</h2>
-<p class="leading-normal pb-8">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et unde non nam, consequatur expedita nulla fugiat tempora ex similique necessitatibus consequuntur mollitia eum soluta laudantium, repudiandae hic nobis minus laboriosam.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga inventore, cumque, praesentium distinctio, fugit consectetur necessitatibus numquam accusamus rem beatae. Maxime similique voluptatem voluptatibus quaerat, voluptas harum, culpa?</p>
-
-<div class="border border-grey-dark mb-8 mx-auto overflow-scroll rounded max-w-lg">
+<div class="border border-grey-dark mb-8 mx-auto overflow-scroll rounded max-w-2xl">
   <div class="border-b border-grey-dark mt-6 md:mt-0 p-2 md:p-8 text-center">
 
     <div class="mx-auto overflow-hidden rounded-lg w-96 md:w-128">

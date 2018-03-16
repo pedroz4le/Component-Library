@@ -1,19 +1,16 @@
 <?php include'partials/start.php'; ?>
 
-<h1 class="pb-4">Global Navigation</h1>
-
-<p class="leading-normal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati fugiat eveniet quaerat magnam ex ullam reiciendis, officiis quasi reprehenderit nam saepe dolores ea sed dolore veritatis excepturi, fugit labore. Corporis.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga inventore, cumque, praesentium distinctio, fugit consectetur necessitatibus numquam accusamus rem beatae. Maxime similique voluptatem voluptatibus quaerat, voluptas harum, culpa?</p>
+  <h1 class="pb-4">Global Navigation</h1>
+  <h2 class="font-thin leading-normal pb-8 text-grey-dark max-w-lg">Example of building a navigation component with Tailwind CSS, styled by Caff Source.</h2>
+  <p class="leading-normal">This example can easily be grabbed for use directly from this page, and further customized through the use of Tailwind classes.</p>
 
 <div class="border-b w-full my-10"></div>
 
 <!-- BAR NAVIGATION -->
 
 <h2 class="font-thin pb-4">Bar Navigation</h2>
-<p class="leading-normal pb-8">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et unde non nam, consequatur expedita nulla fugiat tempora ex similique necessitatibus consequuntur mollitia eum soluta laudantium, repudiandae hic nobis minus laboriosam.</p>
 
-<div class="border border-grey-dark mb-8 mx-auto overflow-hidden rounded max-w-xl">
+<div class="border border-grey-dark mb-8 mx-auto overflow-hidden rounded max-w-2xl">
 	<div class="border-b border-grey-dark p-8">
 
 		<nav class="flex items-center justify-between flex-wrap bg-grey-lighter p-6">
@@ -48,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga invent
 	<div class="px-4 bg-grey-lightest">
 		<pre class="language-html" style="margin: 0px; padding: 0px;">
 			<code class="language-html text-sm">
-&lt;nav id="app" class=&quot;flex items-center justify-between flex-wrap bg-grey-lighter p-6&quot;&gt;
+&lt;nav class=&quot;flex items-center justify-between flex-wrap bg-grey-lighter p-6&quot;&gt;
   &lt;div class=&quot;flex items-center mr-6&quot;&gt;
     &lt;img src=&quot;../images/logo.png&quot; alt=&quot;brand logo&quot; class=&quot;w-8&quot;&gt;
     &lt;span class=&quot;font-bold ml-4 text-xl&quot;&gt;Caff Source &lt;span class=&quot;font-thin&quot;&gt;Component Library&lt;/span&gt;&lt;/span&gt;

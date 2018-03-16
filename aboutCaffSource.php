@@ -1,25 +1,25 @@
 <?php include 'partials/start.php'; ?>
 
-<h1 class="pb-4">Welcome!</h1>
+<h1 class="pb-4">What is Caff Source?</h1>
 
-<p class="leading-normal pb-8">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero perspiciatis quam corrupti quaerat in blanditiis mollitia quo unde impedit ullam incidunt quos id quia possimus, ipsum veniam nihil iure amet.
+<h2 class="font-thin leading-normal pb-8 text-grey-dark max-w-lg">Caff Source is component Library that can be referred back to in order to  create a full site with reusable components.</h2>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero perspiciatis quam corrupti quaerat in blanditiis mollitia quo unde impedit ullam incidunt quos id quia possimus, ipsum veniam nihil iure amet.
+<p class="leading-normal pb-8">Caff Source uses Tailwind CSS as a framework for re-designed components that can be reused for different projects, and styled as needed.</p>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero perspiciatis quam corrupti quaerat in blanditiis mollitia quo unde impedit ullam incidunt quos id quia possimus, ipsum veniam nihil iure amet.
+<p class="leading-normal pb-8">Caff Source components are all responsive and adapt to screen size, no matter what order they are used in. This way, when users create their own sites, they will not spend time worrying about designing their website at different device sizes.</p>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero perspiciatis quam corrupti quaerat in blanditiis mollitia quo unde impedit ullam incidunt quos id quia possimus, ipsum veniam nihil iure amet.</p>
+<p class="leading-normal pb-12">Because Caff Source uses Tailwind CSS, it is simple to change styling through classes, eliminating the need to build an entire CSS library from scratch. Users can benefit from using Caff Source since all the components provided share a theme, in which any of these components can be used all together in order to create a visually appealing and functioning website, fast and easily.</p>
 
-<p class="leading-normal pb-8">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero perspiciatis quam corrupti quaerat in blanditiis mollitia quo unde impedit ullam incidunt quos id quia possimus, ipsum veniam nihil iure amet.
+<h3 class="pb-4">Customization-Friendly</h3>
+<p class="leading-normal pb-12">When Using Caff Source components, users can go into the Tailwind configuration, which has already been modified by Caff Source, and add their own touches to their site. They must simply go into the Tailwind configuration file from GutHub, and replace the element they wish. For further insructions, visit <a href="https://tailwindcss.com/docs/what-is-tailwind/" class="text-red-light">Tailwind</a>.</p>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero perspiciatis quam corrupti quaerat in blanditiis mollitia quo unde impedit ullam incidunt quos id quia possimus, ipsum veniam nihil iure amet.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero perspiciatis quam corrupti quaerat in blanditiis mollitia quo unde impedit ullam incidunt quos id quia possimus, ipsum veniam nihil iure amet.</p>
+<h3 class="pb-4">Installation</h3>
+<p class="leading-normal pb-8">To install Caff Source, go to the <a href="https://tailwindcss.com/docs/what-is-tailwind/" class="text-red-light">GitHub</a> Repository, and download it to have full access to the Tailwind and Caff Source coding samples. Click on the <i>Clone or Download</i> button for best results. </p>
 
 <div class="border-b w-full my-10"></div>
 
 <h2 class="font-thin pb-4">Default Color Pallette</h2>
-<p class="leading-normal pb-8">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et unde non nam, consequatur expedita nulla fugiat tempora ex similique necessitatibus consequuntur mollitia eum soluta laudantium, repudiandae hic nobis minus laboriosam.</p>
+<p class="leading-normal pb-8">Developing an organized and appealing color palette is critical to the design success of a project. Caff Source provides a great color pallette that facilitates the designing process for users.</p>
 
 <div class="m-10">
 	<div class="flex flex-wrap">

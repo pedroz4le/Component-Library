@@ -1,19 +1,16 @@
 <?php include'partials/start.php'; ?>
 
-<h1 class="pb-4">Navigation Lists</h1>
-
-<p class="leading-normal">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati fugiat eveniet quaerat magnam ex ullam reiciendis, officiis quasi reprehenderit nam saepe dolores ea sed dolore veritatis excepturi, fugit labore. Corporis.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ut dolorum fuga inventore, cumque, praesentium distinctio, fugit consectetur necessitatibus numquam accusamus rem beatae. Maxime similique voluptatem voluptatibus quaerat, voluptas harum, culpa?</p>
+  <h1 class="pb-4">Navigation Lists</h1>
+  <h2 class="font-thin leading-normal pb-8 text-grey-dark max-w-lg">Examples of building a navigation list component with Tailwind CSS, styled by Caff Source.</h2>
+  <p class="leading-normal">These examples can easily be grabbed for use directly from this page, and further customized through the use of Tailwind classes.</p>
 
 <div class="border-b w-full my-10"></div>
 
 <!-- SECTIONAL NAVIGATION LIST -->
 
 <h2 class="font-thin pb-4">Sectional Navigation List</h2>
-<p class="leading-normal pb-8">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et unde non nam, consequatur expedita nulla fugiat tempora ex similique necessitatibus consequuntur mollitia eum soluta laudantium, repudiandae hic nobis minus laboriosam.</p>
 
-<div class="border border-grey-dark mb-8 mx-auto overflow-hidden rounded max-w-md">
+<div class="border border-grey-dark mb-8 mx-auto overflow-hidden rounded max-w-2xl">
 	<div class="border-b border-grey-dark p-8">
 
 		<nav class="bg-grey-lighter mx-auto p-6 max-w-xs">
