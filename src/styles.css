@@ -24,6 +24,10 @@
 	background-image: url("http://www.pedrozaarts.com/CaffSource/images/coffeePicFour.jpg");
 }
 
+.heroImage3{
+	background-image: url("http://www.pedrozaarts.com/CaffSource/images/coffeeBeans.jpg");
+}
+
 .text-shadow{
 	text-shadow: 2px 2px 8px #000000;
 }

@@ -16,6 +16,9 @@
 <h3 class="pb-4">Installation</h3>
 <p class="leading-normal pb-8">To install Caff Source, go to the <a href="https://tailwindcss.com/docs/what-is-tailwind/" class="text-red-light">GitHub</a> Repository, and download it to have full access to the Tailwind and Caff Source coding samples. Click on the <i>Clone or Download</i> button for best results. </p>
 
+<h3 class="pb-4">Example Pages made with Caff Source Components</h3>
+<p class="leading-normal pb-8">Go take a look at the example page, CSUN Coffee Source <a href="examplePage.php" class="text-red-light">here</a>.</p>
+
 <div class="border-b w-full my-10"></div>
 
 <h2 class="font-thin pb-4">Default Color Pallette</h2>
